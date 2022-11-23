@@ -1,0 +1,72 @@
+@import "../comproment/css/home.scss";
+@import "utile.scss";
+@import "../comproment/css/classify.scss";
+@import "../comproment/css/my.scss";
+@import "../comproment/css/buycar.scss";
+
+html{
+  font-size: $fontsize;
+}
+body{
+  //font-size: $fontsize;
+  width: 100vw;
+  overflow-x: hidden;
+}
+li{
+  list-style: none;
+}
+.bot_nav{
+  height: 0.55rem;
+  color: $txtcolor;
+  .navitem{
+    background-color: #fff;
+    position: relative;
+    >{
+      .mui-icon-home::before{
+        content: '';
+        background-size: 100%;
+        background-image: url(../oppo/res/drawable-xxhdpi-v4/tab_icon_home_selected.png);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        display: block;
+      }
+      .mui-icon-phone::before{
+        content: '';
+        background-size: 100%;
+        background-image: url(../oppo/res/drawable-xxhdpi-v4/tab_icon_home_selected.png);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        display: block;
+      }
+      .mui-icon-email::before{
+        content: '';
+        background-size: 100%;
+        background-image: url(../oppo/res/drawable-xxhdpi-v4/tab_icon_home_selected.png);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        display: block;
+      }
+      .mui-icon-gear::before{
+        content: '';
+        background-size: 100%;
+        background-image: url(../oppo/res/drawable-xxhdpi-v4/avatar.png);
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        display: block;
+      }
+      .jiaobiao{
+        position: absolute;
+        top: 0;
+        z-index: 9;
+        right: 0.15rem;
+      }
+    }
+  }
+  .mui-tab-item.mui-active{
+    color: #f94c30;  
+  }
+}

@@ -1,0 +1,515 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "category": {
+                "categoryCode": "000046",
+                "name": "热门推荐",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 100,
+                "firstLevelCode": "000024",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662342687399,
+                "version": 1662342687399,
+                "ads": [
+                    {
+                        "logoUrl": "https://dsfs.oppo.com/omp/1659491724426-_-fd42b6a070594d7e91a7ced960881a13.png?_w_=738&_h_=240",
+                        "video": "",
+                        "desc": "",
+                        "defaultUrl": "https://hd.opposhop.cn/bp/0991f1b043fe8dcd?nightModelEnable=true&us=fenleiye&um=banner",
+                        "loginValid": false,
+                        "scopeJson": null
+                    }
+                ],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "000046",
+                        "spuId": 6346,
+                        "spuName": "OPPO Reno8 ",
+                        "marketingText": "长寿版 80W 超级闪充",
+                        "skuId": 7161,
+                        "skuName": "OPPO Reno8  微醺 8G+128G 官方标配",
+                        "mainImg": "https://dsfs.oppo.com/omp/1653303393579-_-a6983320bd854fa9906ae34f6b1d13b2.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7161&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "12期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满700减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "长寿版 80W 超级闪充",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "2189",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "2499",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "2189",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 1,
+                        "goodsTopCategoryName": "手机",
+                        "goodsCategoryId": 23,
+                        "goodsCategoryName": "Reno系列"
+                    },
+                    {
+                        "categoryCode": "000046",
+                        "spuId": 6795,
+                        "spuName": "OPPO Watch 3 系列全智能手表",
+                        "marketingText": "旗舰双芯片",
+                        "skuId": 8384,
+                        "skuName": "OPPO Watch 3 系列全智能手表 Watch 3 Pro 铂黑 氟橡胶表带款",
+                        "mainImg": "https://dsfs.oppo.com/omp/1660129796666-_-3ad0588060dd42a09f45dd7b11c8277d.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8384&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "6期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满99减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "旗舰双芯片",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "1989",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "1999",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "1989",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 27,
+                        "goodsCategoryName": "智能穿戴（核心品）"
+                    },
+                    {
+                        "categoryCode": "000046",
+                        "spuId": 21464,
+                        "spuName": "OPPO Find X5 Pro",
+                        "marketingText": "年度影像旗舰",
+                        "skuId": 6357,
+                        "skuName": "OPPO Find X5 Pro 白瓷 8G+256G 官方标配",
+                        "mainImg": "https://dsfs.oppo.com/omp/1646102912064-_-17d2e5ab3ab549cbb0c6b891b9e91bb0.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6357&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "24期免息"
+                                ]
+                            },
+                            {
+                                "title": "赠品",
+                                "type": 2,
+                                "descList": [
+                                    "赠"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满700减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵100元"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "年度影像旗舰",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "4759",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "5199",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "4759",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 1,
+                        "goodsTopCategoryName": "手机",
+                        "goodsCategoryId": 26,
+                        "goodsCategoryName": "Find系列"
+                    },
+                    {
+                        "categoryCode": "000046",
+                        "spuId": 6228,
+                        "spuName": "OPPO K10",
+                        "marketingText": "天玑8000-MAX",
+                        "skuId": 6856,
+                        "skuName": "OPPO K10 暗夜黑 8G+256G 官方标配",
+                        "mainImg": "https://dsfs.oppo.com/omp/1650614799969-_-b5dfbb92eae646b2b8eb7799b5ce45c8.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6856&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "6期免息"
+                                ]
+                            },
+                            {
+                                "title": "赠品",
+                                "type": 2,
+                                "descList": [
+                                    "赠"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满700减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵30元"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "天玑8000-MAX",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "2089",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "2199",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "2089",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 1,
+                        "goodsTopCategoryName": "手机",
+                        "goodsCategoryId": 24,
+                        "goodsCategoryName": "K系列"
+                    },
+                    {
+                        "categoryCode": "000046",
+                        "spuId": 6769,
+                        "spuName": "一加 Ace Pro",
+                        "marketingText": "性能手机新标杆",
+                        "skuId": 8292,
+                        "skuName": "一加 Ace Pro 16GB+256GB 青雾 官方标配",
+                        "mainImg": "https://dsfs.oppo.com/omp/1658730050818-_-28d74b0cb45f497cb879838f79f664f0.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8292&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "12期免息"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵1%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "性能手机新标杆",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "3799",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "3799",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 45,
+                        "goodsTopCategoryName": "OnePlus手机",
+                        "goodsCategoryId": 6015,
+                        "goodsCategoryName": "一加Ace系列"
+                    },
+                    {
+                        "categoryCode": "000046",
+                        "spuId": 21344,
+                        "spuName": "一加 10 Pro",
+                        "marketingText": "第十代性能旗舰",
+                        "skuId": 22583,
+                        "skuName": "一加 10 Pro 12GB+256GB 破界黑 官方标配",
+                        "mainImg": "https://dsfs.oppo.com/omp/1641470757858-_-a8097a8cbd6d44d0a8aec329115b01c9.png?_w_=600&_h_=600",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22583&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "12期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满2000减100"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵200元"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "第十代性能旗舰",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "4299",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "5299",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "4299",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 45,
+                        "goodsTopCategoryName": "OnePlus手机",
+                        "goodsCategoryId": 25026,
+                        "goodsCategoryName": "一加10系列"
+                    },
+                    {
+                        "categoryCode": "000046",
+                        "spuId": 21449,
+                        "spuName": "OPPO Pad ",
+                        "marketingText": "骁龙 870 处理器",
+                        "skuId": 22860,
+                        "skuName": "OPPO Pad  6GB+128GB 耀夜黑 官方标配",
+                        "mainImg": "https://dsfs.oppo.com/omp/1654761851046-_-87a9b478ed9347c3b18ba4414f7a2e3a.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22860&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "6期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满59减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵50元"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "骁龙 870 处理器",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "2189",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "2299",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "2189",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 25030,
+                        "goodsCategoryName": "OPPO平板（核心品）"
+                    },
+                    {
+                        "categoryCode": "000046",
+                        "spuId": 6196,
+                        "spuName": "OPPO Enco Air2 Pro",
+                        "marketingText": "吾皇猫定制礼盒",
+                        "skuId": 7651,
+                        "skuName": "OPPO Enco Air2 Pro 吾皇版",
+                        "mainImg": "https://dsfs.oppo.com/omp/1653374709860-_-e6e913acf0ff4e3b91a480f8c2f97559.png?_w_=1080&_h_=1080",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7651&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"吾皇猫定制礼盒\",\"timing\":0}]",
+                        "spuShortDesc": "ANC 主动降噪",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "289",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "329",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "289",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 19,
+                        "goodsCategoryName": "蓝牙耳机（核心品）"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        }
+    ]
+}

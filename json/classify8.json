@@ -1,0 +1,573 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "category": {
+                "categoryCode": "000311",
+                "name": "OPPO 手机配件",
+                "subtitle": null,
+                "style": 2,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 91,
+                "firstLevelCode": "000036",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [
+                    {
+                        "logoUrl": "https://dsfs.oppo.com/omp/1655742063307-_-91bac597f2234d4f9ea12e990425dd3e.jpg?_w_=738&_h_=240",
+                        "video": "",
+                        "desc": "",
+                        "defaultUrl": "https://www.opposhop.cn/cn/m/product/index?skuId=7544",
+                        "loginValid": false,
+                        "scopeJson": null
+                    }
+                ],
+                "moreAd": null,
+                "goods": []
+            },
+            "child": [
+                {
+                    "category": {
+                        "categoryCode": "003554",
+                        "name": "手游装备",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1650721814721-_-815562075a1f49a6b0645816d1b95d38.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1650721814721-_-815562075a1f49a6b0645816d1b95d38.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 75,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "000311",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=000311&sub_cata=003554&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "000314",
+                        "name": "充电必备",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1651136067406-_-bfb6640959644f0a8f85ebf2561dc993.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1651136067406-_-bfb6640959644f0a8f85ebf2561dc993.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 70,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "000311",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=000311&sub_cata=000314&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "000316",
+                        "name": "数据线",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1651135778203-_-9e134087ee914607a5efe4f2d98a5cb6.png?_w_=1120&_h_=1120",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1651135778203-_-9e134087ee914607a5efe4f2d98a5cb6.png?_w_=1120&_h_=1120",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 68,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "000311",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=000311&sub_cata=000316&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "003557",
+                        "name": "有线耳机",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1651134109243-_-96d3a5ca46f74894a84457af5bb0331e.png?_w_=1120&_h_=1120",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1651134109243-_-96d3a5ca46f74894a84457af5bb0331e.png?_w_=1120&_h_=1120",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 65,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "000311",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=000311&sub_cata=003557&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "003558",
+                        "name": "移动电源",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1651135283142-_-a0058f6fe04047d18374ad971654f4fe.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1651135283142-_-a0058f6fe04047d18374ad971654f4fe.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 55,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "000311",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=000311&sub_cata=003558&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "000315",
+                        "name": "保护壳",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1651136067740-_-54ac04f85cc049819ba29d2c36bd687f.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1651136067740-_-54ac04f85cc049819ba29d2c36bd687f.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 30,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "000311",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=000311&sub_cata=000315&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                }
+            ],
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "001178",
+                "name": "一加专属配件",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 90,
+                "firstLevelCode": "000036",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": []
+            },
+            "child": [
+                {
+                    "category": {
+                        "categoryCode": "001179",
+                        "name": "保护壳",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1632637167153-_-c698d9d9a81b480889e5f36a7a8c7c7e.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1632637167153-_-c698d9d9a81b480889e5f36a7a8c7c7e.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 1000,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "001178",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=001178&sub_cata=001179&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "001181",
+                        "name": "充电设备",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1632637340305-_-7dc1ce9e0ac54d018383f726c0679e71.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1632637340305-_-7dc1ce9e0ac54d018383f726c0679e71.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 800,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "001178",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=001178&sub_cata=001181&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "001183",
+                        "name": "手游装备",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1656676256306-_-7420b1586cfa4b7b928d3a31d4f59c85.png?_w_=320&_h_=320",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1656676256306-_-7420b1586cfa4b7b928d3a31d4f59c85.png?_w_=320&_h_=320",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 600,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "001178",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=001178&sub_cata=001183&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "001180",
+                        "name": "保护膜",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1632749812113-_-9ee46e56e411404287b88fa11d0bcb17.png?_w_=320&_h_=320",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1632749812113-_-9ee46e56e411404287b88fa11d0bcb17.png?_w_=320&_h_=320",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 550,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "001178",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=001178&sub_cata=001180&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [
+                            {
+                                "logoUrl": "https://dsfs.oppo.com/omp/1632637295726-_-971e1a9f3b16493ebd6e29255b6bd9d9.png?_w_=320&_h_=320",
+                                "video": "",
+                                "desc": "",
+                                "defaultUrl": null,
+                                "loginValid": null,
+                                "scopeJson": ""
+                            }
+                        ],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "001182",
+                        "name": "生活周边",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1632637497644-_-cf2ff8316f1b4237a6e7299b8e8ba6d5.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1632637497644-_-cf2ff8316f1b4237a6e7299b8e8ba6d5.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 500,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "001178",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=001178&sub_cata=001182&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                }
+            ],
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003863",
+                "name": "OPPO 平板配件",
+                "subtitle": null,
+                "style": 2,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 89,
+                "firstLevelCode": "000036",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": []
+            },
+            "child": [
+                {
+                    "category": {
+                        "categoryCode": "003866",
+                        "name": "手写笔",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1654174601696-_-7869abccd6934064b624c992fa33f3e2.png?_w_=1081&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1654174601696-_-7869abccd6934064b624c992fa33f3e2.png?_w_=1081&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 100,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "003863",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=003863&sub_cata=003866&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "003869",
+                        "name": "键盘",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1654174614338-_-d42b7b6c88b54670b9980b37970e19ce.png?_w_=1440&_h_=1440",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1654174614338-_-d42b7b6c88b54670b9980b37970e19ce.png?_w_=1440&_h_=1440",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 90,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "003863",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=003863&sub_cata=003869&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "003871",
+                        "name": "保护套",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1654174613798-_-8caac76c0ae14768a966945c0ca5cc95.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1654174613798-_-8caac76c0ae14768a966945c0ca5cc95.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 80,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "003863",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=003863&sub_cata=003871&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "003872",
+                        "name": "钢化膜",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1654174614169-_-be813c5ada2b41bba7eed229f0f72c16.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1654174614169-_-be813c5ada2b41bba7eed229f0f72c16.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 70,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "003863",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=003863&sub_cata=003872&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                }
+            ],
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003873",
+                "name": "OPPO 电视配件",
+                "subtitle": null,
+                "style": 2,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 88,
+                "firstLevelCode": "000036",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": []
+            },
+            "child": [
+                {
+                    "category": {
+                        "categoryCode": "003874",
+                        "name": "遥控器",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1654174614531-_-f17cb6dfd16b4ca9bd110b7443c80c2f.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1654174614531-_-f17cb6dfd16b4ca9bd110b7443c80c2f.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 10,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "003873",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=003873&sub_cata=003874&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "003875",
+                        "name": "摄像头",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1654174614429-_-417bce46466744719508dd0f8be7d15b.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1654174614429-_-417bce46466744719508dd0f8be7d15b.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 5,
+                        "firstLevelCode": "000036",
+                        "secondLevelCode": "003873",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=003873&sub_cata=003875&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                }
+            ],
+            "refreshTime": 2
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "id": "1948",
+            "title": "OPPO Reno8",
+            "showName": 0,
+            "url": "",
+            "jsonUrl": "",
+            "clickUrl": "",
+            "jsonClickUrl": "",
+            "beginAt": 1654048800000,
+            "endAt": null,
+            "seq": 265,
+            "labelDetailss": [
+                {
+                    "id": "60900",
+                    "name": "热",
+                    "configKey": "201",
+                    "pigment": ""
+                }
+            ],
+            "link": null,
+            "isLogin": null,
+            "moduleCode": "040109",
+            "rows": 0,
+            "cols": 0,
+            "maxProductNum": 0
+        },
+        {
+            "id": "1799",
+            "title": "OPPO K10",
+            "showName": 0,
+            "url": "",
+            "jsonUrl": "",
+            "clickUrl": "",
+            "jsonClickUrl": "",
+            "beginAt": 1646272800000,
+            "endAt": null,
+            "seq": 260,
+            "labelDetailss": [
+                {
+                    "id": "61873",
+                    "name": "热",
+                    "configKey": "201",
+                    "pigment": ""
+                }
+            ],
+            "link": null,
+            "isLogin": null,
+            "moduleCode": "040109",
+            "rows": 0,
+            "cols": 0,
+            "maxProductNum": 0
+        },
+        {
+            "id": "2065",
+            "title": "一加 Ace Pro",
+            "showName": 0,
+            "url": "",
+            "jsonUrl": "",
+            "clickUrl": "",
+            "jsonClickUrl": "",
+            "beginAt": 1660528800000,
+            "endAt": null,
+            "seq": 180,
+            "labelDetailss": [
+                {
+                    "id": "61394",
+                    "name": "新",
+                    "configKey": "201",
+                    "pigment": ""
+                }
+            ],
+            "link": null,
+            "isLogin": null,
+            "moduleCode": "040109",
+            "rows": 0,
+            "cols": 0,
+            "maxProductNum": 0
+        },
+        {
+            "id": "1714",
+            "title": "Watch 3 新品手表",
+            "showName": 0,
+            "url": "",
+            "jsonUrl": "",
+            "clickUrl": "",
+            "jsonClickUrl": "",
+            "beginAt": 1661097600000,
+            "endAt": null,
+            "seq": 170,
+            "labelDetailss": [
+                {
+                    "id": "61668",
+                    "name": "新",
+                    "configKey": "201",
+                    "pigment": ""
+                }
+            ],
+            "link": null,
+            "isLogin": null,
+            "moduleCode": "040109",
+            "rows": 0,
+            "cols": 0,
+            "maxProductNum": 0
+        }
+    ]
+}

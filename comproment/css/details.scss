@@ -1,0 +1,425 @@
+@import '../../css/utile.scss';
+
+@include reset();
+
+html{
+  font-size: $fontsize;
+  //overflow-y: scroll;
+}
+body{
+  //position: absolute;
+  overflow-x: hidden;
+  width: 100vw;
+}
+
+.details_header{
+  width: 100%;
+  height: 0.42rem;
+  position: fixed;
+  top: 0;
+  z-index: 9;
+  background: white;
+  .backindex{
+    display: inline-block;
+    width: 0.23rem;
+    height: 0.23rem;
+    position: absolute;
+    top: 50%;
+    left: 0.2rem;
+    z-index: 9;
+    transform: translateY(-50%);
+    background-image: url("../../oppo/res/drawable-xxhdpi-v4/toolbar_back.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    }
+  .details_type{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    ul{
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      li{
+        height: 100%;
+        display: flex;
+        align-items: center;
+        font-size: 0.14rem;
+        color: $txtcolor;
+        margin: 0 0.05rem;
+      }
+      .active{
+        color: #f34141;
+      }
+    }
+    .active_bon{
+      height: 0.02rem;
+      width: 0.3rem;
+      background: #f34141;
+      position: absolute;
+      bottom: 0;
+    }
+  }
+}
+
+.pag{
+  position: relative;
+  top: 0.42rem;
+  width: 300vw;
+  height: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  .pag1,.pag2,.pag3{
+    width: 100vw;
+    position: relative;
+    margin-bottom: 0.52rem;
+  }
+  .pag1{
+    background: $bg;
+    .details_img{
+      width: 100%;
+      background: white;
+      img{
+        width: 100%;
+        height: 100%;
+      }
+    }
+    .details_price{
+      background-image: url("https://dsfs.oppo.com/archives/202111/20211123051126619cb70ab1352.png?_w_=1080&_h_=174");
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      width: 100%;
+      padding: 0.10rem 0.16rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      .d_p_left{
+        height: 100%;
+        display: flex;
+        align-items: center;
+        p{
+          margin-bottom: 0;
+        }
+        .d_nowprice{
+          color: white;
+          font-size: 0.12rem;
+          span{
+            font-size: 0.20rem;
+          }
+        }
+        .youhui_price{
+          color: #f34141;
+          background: white;
+          font-size: 0.12rem;
+          margin-left: 0.1rem;
+          padding: 0.02rem 0.08rem;
+          border-radius: 0.3rem;
+          .y_money{
+            font-size: 0.16rem;
+          }
+        }
+      }
+      .d_p_r{
+        text-align: center;
+        color: white;
+        font-size: 0.12rem;
+        p{
+          transform-origin: bottom;
+          transform: scale(0.8);
+          color: white;
+          margin-bottom: 0;
+        }
+      }
+    }
+    .de_info{
+      padding: 0 $pad;
+      width: 100%;
+      box-sizing: border-box;
+      margin: 0.1rem 0;
+      .details_youhui{
+        width: 100%;
+        border-radius: 0.08rem;
+        background: white;
+        padding: $pad;
+        .youhui_type1,.youhui_type2,.youhui_type3{
+          display: flex;
+          justify-content: space-between;
+        }
+        .goinfo{
+          width: 0.18rem;
+          height: 0.18rem;
+          background-image: url("../../oppo/res/drawable-xxhdpi-v4/right_zu_arraw.png");
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+        }
+        .youhui_type1{
+          width: 100%;
+          justify-content: start;
+          img{
+            height: 0.2rem;
+          }
+          p{
+            margin-left: 0.1rem;
+            margin-bottom: 0;
+            font-size: 0.12rem;
+            color: #f34141;
+          }
+        }
+        .youhui_type2{
+          margin-top: 0.1rem;
+          .y_info{
+            font-size: 0.12rem;
+            color: #f34141;
+            span{
+              background: #fef5f5;
+              padding: 0.01rem 0.06rem;
+              border-radius: 0.04rem;
+            }
+          }
+        }
+        .youhui_type3{
+          width: 100%;
+          box-sizing: border-box;
+          padding: 0.07rem $pad;
+          margin-top: 0.15rem;
+          background-color: rgb(245, 235, 216);
+          color: rgb(153, 102, 15);
+          font-size: 0.12rem;
+          border-radius: 0.06rem;
+          span:last-child{
+            margin-left: 0.12rem;
+          }
+          .goinfo{
+            background-image: url("../../oppo/res/drawable-xxhdpi-v4/icon_vip_right_arrow.png");
+          }
+        }
+      }
+    }
+    .de_data{
+      padding: 0 $pad;
+      box-sizing: border-box;
+      width: 100%;
+      .de_main{
+        background: white;
+        width: 100%;
+        border-radius: 0.08rem;
+        .details_name{
+          width: 100%;
+          padding: 0.16rem $pad 0;
+          box-sizing: border-box;
+          .name{
+            font-size: 0.17rem;
+            margin-bottom: 0;
+            color: #333333;
+          }
+          .de_other{
+            width: 100%;
+            margin-top: 0.1rem;
+            p{
+              margin-bottom: 0;
+              font-size: 0.12rem;
+              color: rgb(247, 154, 71);
+            }
+            p:last-child{
+              color: #333333;
+              span{
+                color: rgb(247, 154, 71);
+              }
+            }
+          }
+          .de_bijiao{
+            width: 100%;
+            margin-top: $pad;
+            display: flex;
+            align-items: center;
+            img{
+              width: 0.21rem;
+            }
+            span{
+              margin-left: 0.08rem;
+              font-size: 0.12rem;
+            }
+          }
+        }
+        .de_canshu{
+          margin-top: 0.1rem;
+          border-top: 1px solid #f4f4f4;
+          ul{
+            display: flex;
+            padding: 0.1rem 0 0.12rem;
+            overflow-x: auto;
+            overflow-y: hidden;
+            background: white;
+            align-items: center;
+            li{
+              position: relative;
+              height: 100%;
+              display: inline-block;
+              list-style: none;
+              padding: 0 0.04rem;
+              div{
+                width: 0.84rem;
+                display: flex;
+                text-align: center;
+                flex-direction: column;
+                align-items: center;
+                img{
+                  width: 0.2rem;
+                }
+                p{
+                  width: 100%;
+                  margin-bottom: 0;
+                  font-size: 0.12rem;
+                  margin-top: 0.08rem;
+                  text-overflow: ellipsis;
+                  overflow: hidden;
+                  white-space: nowrap;
+                }
+                p:last-child{
+                  margin-top: 0.04rem;
+                  color: rgba(0,0,0,.55);
+                }
+              }
+              .gang{
+                position: absolute;
+                top: 0.14rem;
+                right: 0;
+                bottom: 0.14rem;
+                border: 1px solid #f4f4f4;
+                width: 0;
+              }
+            }
+          }
+        }
+      }
+    }
+    .de_chance{
+      padding: 0 $pad;
+      box-sizing: border-box;
+      width: 100%;
+      margin-top: 0.1rem;
+      margin-bottom: 0.1rem;
+      .c_main{
+        width: 100%;
+        padding:0.16rem $pad;
+        background: white;
+        border-radius: 0.08rem;
+        .de_color,.de_peizhi,.de_taocan,.de_number{
+          display: flex;
+          font-size: 0.13rem;
+          color: #666666;
+          margin-bottom: 0.3rem;
+          .de_type{
+            margin-right: 0.05rem;
+          }
+        }
+        .chance{
+          color: #333333;
+          span{
+            padding: 0.075rem 0.1rem;
+            background: #f7f8fa;
+            border: 1px solid transparent;
+            border-radius: 0.08rem;
+            margin: 0 0.05rem;
+          }
+          .chance_avtive{
+            color: #f34141;
+            border: 1px solid #f34141;
+            background: white;
+          }
+        }
+        .de_number{
+          margin-bottom: 0;
+          .c_num{
+            background: none;
+            border: none;
+            margin: 0;
+            padding: 0;
+          }
+        }
+      }
+    }
+    .de_footer{
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      height: 0.52rem;
+      display: flex;
+      background: white;
+      .def_icon{
+        flex: 0.8;
+        height: 100%;
+        ul{
+          width: 100%;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          li{
+            width: 33%;
+            font-size: 0.12rem;
+            display: flex;
+            align-content: center;
+            flex-wrap: wrap;
+            justify-content: center;
+            text-align: center;
+            border-right:1px solid #f4f4f4;
+            img{
+              width: 0.2rem;
+              height: 0.2rem;
+            }
+            span{
+              width: 100%;
+              margin-top: 0.04rem;
+            }
+          }
+          li:last-child{
+            position: relative;
+            .jiao{
+              position: absolute;
+              top: 0.01rem;
+              right: 0.03rem;
+              padding: 0.01rem 0.02rem;
+            }
+          }
+        }
+      }
+      .buyorcar{
+        flex: 1.2;
+        height: 100%;
+        display: flex;
+        >span{
+          flex: 1;
+          font-size: 0.14rem;
+          color: white;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          flex-wrap: wrap;
+        }
+        .addtocar{
+          background: linear-gradient(225deg, #fc8f22 0%, #ffc053 100%);
+          border: 0.01rem solid #ff976a;
+        }
+        .buynow{
+          background: linear-gradient(239.16deg, #f03446 3.72%, #ff5b39 78.51%);
+          border: 0.01rem solid #ee0a24;
+          p{
+            width: 100%;
+            font-size: 0.12rem;
+            color: white;
+            margin-bottom: 0;
+            text-align: center;
+          }
+          p:last-child{
+            font-size: 0.14rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+.nicescroll-cursors,.nicescroll-rails{
+  display: none;
+}

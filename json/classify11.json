@@ -1,0 +1,510 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "category": {
+                "categoryCode": "002398",
+                "name": "个护电器",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 999,
+                "firstLevelCode": "003838",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [
+                    {
+                        "logoUrl": "https://dsfs.oppo.com/omp/1655861755304-_-c2f5b1ce8d3542dd994ad047c70435bb.png?_w_=738&_h_=240",
+                        "video": "",
+                        "desc": "",
+                        "defaultUrl": "https://www.opposhop.cn/cn/m/product/index?skuId=2512",
+                        "loginValid": false,
+                        "scopeJson": null
+                    }
+                ],
+                "moreAd": null,
+                "goods": []
+            },
+            "child": [
+                {
+                    "category": {
+                        "categoryCode": "002649",
+                        "name": "剃须刀",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1654059290070-_-3ada4a21ce9b4fb5bd3b96dd2c07eea9.png?_w_=320&_h_=320",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1654059290070-_-3ada4a21ce9b4fb5bd3b96dd2c07eea9.png?_w_=320&_h_=320",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 999,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002398",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002398&sub_cata=002649&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002650",
+                        "name": "电动牙刷",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1658824767947-_-1d0ba35863e44431a239038ef17abbf5.png?_w_=320&_h_=320",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1658824767947-_-1d0ba35863e44431a239038ef17abbf5.png?_w_=320&_h_=320",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 998,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002398",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002398&sub_cata=002650&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002651",
+                        "name": "冲牙器",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1642068470538-_-d8724e0adbf34ac59b4c866914730442.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1642068470538-_-d8724e0adbf34ac59b4c866914730442.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 997,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002398",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002398&sub_cata=002651&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002652",
+                        "name": "吹风机",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1640229633936-_-3656082795a74337988c20b1e73ffde6.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1640229633936-_-3656082795a74337988c20b1e73ffde6.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 996,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002398",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002398&sub_cata=002652&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002653",
+                        "name": "洁面仪",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1653551758210-_-f9fbd8488bf748e4ae2e42b89faba7e3.png?_w_=320&_h_=320",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1653551758210-_-f9fbd8488bf748e4ae2e42b89faba7e3.png?_w_=320&_h_=320",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 995,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002398",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002398&sub_cata=002653&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002654",
+                        "name": "美容仪",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1660042902378-_-31aca513b2d24fba96cd534fbd32f8ef.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1660042902378-_-31aca513b2d24fba96cd534fbd32f8ef.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 994,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002398",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002398&sub_cata=002654&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002655",
+                        "name": "卷/直发器",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1640232042216-_-5b8e351fbcb94efba221cb88bc4daecd.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1640232042216-_-5b8e351fbcb94efba221cb88bc4daecd.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 993,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002398",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002398&sub_cata=002655&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002657",
+                        "name": "剃/脱毛器",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1655205349430-_-b14deeca2c4f4968b5079eb661fa787c.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1655205349430-_-b14deeca2c4f4968b5079eb661fa787c.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 992,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002398",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002398&sub_cata=002657&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002656",
+                        "name": "理发器",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1652865349233-_-2824749944434de3b49044933b94038b.png?_w_=320&_h_=320",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1652865349233-_-2824749944434de3b49044933b94038b.png?_w_=320&_h_=320",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 991,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002398",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002398&sub_cata=002656&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002658",
+                        "name": "其他/配件",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1642068470106-_-e5d2b9118ca14693888582f4ed95a21b.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1642068470106-_-e5d2b9118ca14693888582f4ed95a21b.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 990,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002398",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002398&sub_cata=002658&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                }
+            ],
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "002659",
+                "name": "保健护理",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 998,
+                "firstLevelCode": "003838",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": []
+            },
+            "child": [
+                {
+                    "category": {
+                        "categoryCode": "002660",
+                        "name": "筋膜枪",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1659439521238-_-dea00bd43c874664aafcec233e5cea4c.png?_w_=320&_h_=320",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1659439521238-_-dea00bd43c874664aafcec233e5cea4c.png?_w_=320&_h_=320",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 999,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002659",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002659&sub_cata=002660&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002661",
+                        "name": "肩颈部按摩器",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1642072355623-_-425e890d51154f9887ffeb5514460449.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1642072355623-_-425e890d51154f9887ffeb5514460449.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 998,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002659",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002659&sub_cata=002661&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002662",
+                        "name": "眼部按摩器",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1642072356020-_-b598494770e64e2b991b54f04d23e2be.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1642072356020-_-b598494770e64e2b991b54f04d23e2be.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 997,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002659",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002659&sub_cata=002662&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002663",
+                        "name": "其他按摩电器",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1642072355719-_-1219772cc8fc41f3b9a9b6636bb405d4.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1642072355719-_-1219772cc8fc41f3b9a9b6636bb405d4.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 996,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002659",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002659&sub_cata=002663&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002664",
+                        "name": "电子秤",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1658824120419-_-a8abf9affcbb4797af979310b693989e.png?_w_=320&_h_=320",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1658824120419-_-a8abf9affcbb4797af979310b693989e.png?_w_=320&_h_=320",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 995,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002659",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002659&sub_cata=002664&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002666",
+                        "name": "护理理疗",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1658824358532-_-f5ba846c02024f068b4884826cd336f2.png?_w_=282&_h_=282",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1658824358532-_-f5ba846c02024f068b4884826cd336f2.png?_w_=282&_h_=282",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 993,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002659",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002659&sub_cata=002666&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002667",
+                        "name": "血压计",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1642072355917-_-49839a55cb344abfa9cc57d7df64621b.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1642072355917-_-49839a55cb344abfa9cc57d7df64621b.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 992,
+                        "firstLevelCode": "003838",
+                        "secondLevelCode": "002659",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002659&sub_cata=002667&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109742135,
+                        "version": 1662109742135,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                }
+            ],
+            "refreshTime": 2
+        }
+    ]
+}

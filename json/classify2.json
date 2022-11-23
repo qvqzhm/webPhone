@@ -1,0 +1,771 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "category": {
+                "categoryCode": "003836",
+                "name": "一加 Ace 系列",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 2000,
+                "firstLevelCode": "000323",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662343200000,
+                "version": 1662114272758,
+                "ads": [
+                    {
+                        "logoUrl": "https://dsfs.oppo.com/omp/1662112856533-_-7ca4347e0022436fbeff84a5105bde11.jpg?_w_=738&_h_=240",
+                        "video": "",
+                        "desc": "",
+                        "defaultUrl": "https://www.opposhop.cn/cn/m/product/index?skuId=8694",
+                        "loginValid": false,
+                        "scopeJson": null
+                    }
+                ],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003836",
+                        "spuId": 6769,
+                        "spuName": "一加 Ace Pro",
+                        "marketingText": "性能手机新标杆",
+                        "skuId": 8292,
+                        "skuName": "一加 Ace Pro 16GB+256GB 青雾 官方标配",
+                        "mainImg": "https://dsfs.oppo.com/omp/1658730050818-_-28d74b0cb45f497cb879838f79f664f0.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8292&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "12期免息"
+                                ]
+                            },
+                            {
+                                "title": "赠品",
+                                "type": 2,
+                                "descList": [
+                                    "赠"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵1%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "性能手机新标杆",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "3799",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "3799",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 45,
+                        "goodsTopCategoryName": "OnePlus手机",
+                        "goodsCategoryId": 6015,
+                        "goodsCategoryName": "一加Ace系列"
+                    },
+                    {
+                        "categoryCode": "003836",
+                        "spuId": 6200,
+                        "spuName": "一加 Ace",
+                        "marketingText": "王牌登场 快稳狠",
+                        "skuId": 6746,
+                        "skuName": "一加 Ace 12GB+256GB 开黑 官方标配",
+                        "mainImg": "https://dsfs.oppo.com/omp/1649931218820-_-63e505e389f042b6b63d7db3f65ad648.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6746&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "6期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满2000减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵3%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "王牌登场 快稳狠",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "2689",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "2999",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "2689",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 45,
+                        "goodsTopCategoryName": "OnePlus手机",
+                        "goodsCategoryId": 6015,
+                        "goodsCategoryName": "一加Ace系列"
+                    },
+                    {
+                        "categoryCode": "003836",
+                        "spuId": 6368,
+                        "spuName": "一加 Ace 竞速版",
+                        "marketingText": "高能竞速 满血出击",
+                        "skuId": 7262,
+                        "skuName": "一加 Ace 竞速版 12GB+256GB 光速蓝 官方标配",
+                        "mainImg": "https://dsfs.oppo.com/omp/1652339197463-_-0c13a6b2beeb4ed695343a6ad5040e30.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7262&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满2000减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵2%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "高能竞速 满血出击",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "2189",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "2499",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "2189",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 45,
+                        "goodsTopCategoryName": "OnePlus手机",
+                        "goodsCategoryId": 6015,
+                        "goodsCategoryName": "一加Ace系列"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003837",
+                "name": "一加数字旗舰系列",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 1500,
+                "firstLevelCode": "000323",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662343200000,
+                "version": 1662114272758,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003837",
+                        "spuId": 21344,
+                        "spuName": "一加 10 Pro",
+                        "marketingText": "第十代性能旗舰",
+                        "skuId": 22583,
+                        "skuName": "一加 10 Pro 12GB+256GB 破界黑 官方标配",
+                        "mainImg": "https://dsfs.oppo.com/omp/1641470757858-_-a8097a8cbd6d44d0a8aec329115b01c9.png?_w_=600&_h_=600",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22583&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "12期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满2000减100"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵200元"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "第十代性能旗舰",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "4269",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "5299",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "4269",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 45,
+                        "goodsTopCategoryName": "OnePlus手机",
+                        "goodsCategoryId": 25026,
+                        "goodsCategoryName": "一加10系列"
+                    },
+                    {
+                        "categoryCode": "003837",
+                        "spuId": 20655,
+                        "spuName": "一加 9RT",
+                        "marketingText": "速度有了新名字",
+                        "skuId": 21209,
+                        "skuName": "一加 9RT 12GB+256GB 青空结界",
+                        "mainImg": "https://dsfs.oppo.com/omp/1641469733777-_-0351c14083fa404a8682891b203f7a51.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=21209&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满2000减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵200元"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "速度有了新名字",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "2689",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "3799",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "2689",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 45,
+                        "goodsTopCategoryName": "OnePlus手机",
+                        "goodsCategoryId": 282,
+                        "goodsCategoryName": "OnePlus 9系列"
+                    },
+                    {
+                        "categoryCode": "003837",
+                        "spuId": 1590,
+                        "spuName": "一加 9",
+                        "marketingText": "哈苏XPAN宽画幅相机",
+                        "skuId": 3882,
+                        "skuName": "一加 9 8GB+128GB 鲸蓝",
+                        "mainImg": "https://dsfs.oppo.com/omp/1641469419680-_-07e378468c8d4b029d14a6ccba1d0e8d.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=3882&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满2000减100"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵100元"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "哈苏XPAN宽画幅相机",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "2299",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "3599",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "2299",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 45,
+                        "goodsTopCategoryName": "OnePlus手机",
+                        "goodsCategoryId": 282,
+                        "goodsCategoryName": "OnePlus 9系列"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "000342",
+                "name": "一加耳机",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": "https://dsfs.oppo.com/omp/1632637100146-_-8a01c189a57e480897ad99d78803fcd1.png?_w_=1080&_h_=1080",
+                    "link": null
+                },
+                "level": 2,
+                "weight": 700,
+                "firstLevelCode": "000323",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662343200000,
+                "version": 1662114272758,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "000342",
+                        "spuId": 6215,
+                        "spuName": "一加 Buds N 真无线蓝牙耳机",
+                        "marketingText": "",
+                        "skuId": 6776,
+                        "skuName": "一加 Buds N 真无线蓝牙耳机 月光白",
+                        "mainImg": "https://dsfs.oppo.com/omp/1650545879686-_-f9f3f9c6c195438783b23aa6cbb662e3.png?_w_=1080&_h_=1080",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6776&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵5%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "169",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "199",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": "169",
+                            "currencyTag": "￥",
+                            "prefix": "到手价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 46,
+                        "goodsTopCategoryName": "OnePlus配件",
+                        "goodsCategoryId": 53,
+                        "goodsCategoryName": "OnePlus耳机"
+                    },
+                    {
+                        "categoryCode": "000342",
+                        "spuId": 6216,
+                        "spuName": "一加云耳 Z2 颈挂无线耳机",
+                        "marketingText": "",
+                        "skuId": 6778,
+                        "skuName": "一加云耳 Z2 颈挂无线耳机 黑谱",
+                        "mainImg": "https://dsfs.oppo.com/omp/1649834210756-_-3be370afb4b34f9d98654c16a91dc7f4.png?_w_=1080&_h_=1081",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6778&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵20%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "149",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "199",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": "149",
+                            "currencyTag": "￥",
+                            "prefix": "到手价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 46,
+                        "goodsTopCategoryName": "OnePlus配件",
+                        "goodsCategoryId": 53,
+                        "goodsCategoryName": "OnePlus耳机"
+                    },
+                    {
+                        "categoryCode": "000342",
+                        "spuId": 20316,
+                        "spuName": "一加 Buds Pro 降噪耳机",
+                        "marketingText": "40dB 智能主动降噪",
+                        "skuId": 22714,
+                        "skuName": "一加 Buds Pro 降噪耳机 秘银",
+                        "mainImg": "https://dsfs.oppo.com/omp/1641867976818-_-ff3c51b0eb3645a5bc45a639b7098ec9.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22714&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "6期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵10%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "40dB 智能主动降噪",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "589",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "799",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "589",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 46,
+                        "goodsTopCategoryName": "OnePlus配件",
+                        "goodsCategoryId": 53,
+                        "goodsCategoryName": "OnePlus耳机"
+                    },
+                    {
+                        "categoryCode": "000342",
+                        "spuId": 6005,
+                        "spuName": "一加 Buds Z2 降噪耳机",
+                        "marketingText": "40dB 主动降噪",
+                        "skuId": 6009,
+                        "skuName": "一加 Buds Z2 降噪耳机 昼白",
+                        "mainImg": "https://dsfs.oppo.com/omp/1633597413027-_-413a4754fad240d8aa71ff7ebe9ccaab.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6009&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵20%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "40dB 主动降噪",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "339",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "499",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "339",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 46,
+                        "goodsTopCategoryName": "OnePlus配件",
+                        "goodsCategoryId": 53,
+                        "goodsCategoryName": "OnePlus耳机"
+                    },
+                    {
+                        "categoryCode": "000342",
+                        "spuId": 906,
+                        "spuName": "OnePlus 银耳 2T 耳机",
+                        "marketingText": "",
+                        "skuId": 2080,
+                        "skuName": "OnePlus 银耳 2T 耳机 黑色",
+                        "mainImg": "https://dsfs.oppo.com/archives/202011/202011060711075fa53563a8c68.png",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=2080&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "79",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "119",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "79",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 46,
+                        "goodsTopCategoryName": "OnePlus配件",
+                        "goodsCategoryId": 6063,
+                        "goodsCategoryName": "一加有线耳机"
+                    },
+                    {
+                        "categoryCode": "000342",
+                        "spuId": 6813,
+                        "spuName": "一加银耳 3",
+                        "marketingText": "",
+                        "skuId": 8423,
+                        "skuName": "一加银耳 3 3.5mm 接口",
+                        "mainImg": "https://dsfs.oppo.com/omp/1659695935151-_-7ef41bd2de524888a4373fc765b62a7d.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8423&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "79",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "99",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "79",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 46,
+                        "goodsTopCategoryName": "OnePlus配件",
+                        "goodsCategoryId": 6063,
+                        "goodsCategoryName": "一加有线耳机"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        }
+    ]
+}

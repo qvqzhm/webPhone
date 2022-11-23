@@ -1,0 +1,440 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "category": {
+                "categoryCode": "003862",
+                "name": "K9 系列",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 10,
+                "firstLevelCode": "003861",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [
+                    {
+                        "logoUrl": "https://dsfs.oppo.com/omp/1656669685364-_-e767c8e85c074cabb0cf391801de1917.png?_w_=738&_h_=240",
+                        "video": "",
+                        "desc": "",
+                        "defaultUrl": "https://www.opposhop.cn/cn/m/product/index?skuId=6836",
+                        "loginValid": false,
+                        "scopeJson": null
+                    }
+                ],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003862",
+                        "spuId": 1911,
+                        "spuName": "OPPO 智能电视 K9",
+                        "marketingText": "低蓝光护眼",
+                        "skuId": 4709,
+                        "skuName": "OPPO 智能电视 K9 43英寸",
+                        "mainImg": "https://dsfs.oppo.com/archives/202105/2021051709055960a2753b17c08.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=4709&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满100减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵1.5%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"低蓝光护眼\",\"timing\":0}]",
+                        "spuShortDesc": "专业色彩校准",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "1089",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "1999",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "1089",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 69,
+                        "goodsTopCategoryName": "OPPO 电视",
+                        "goodsCategoryId": 70,
+                        "goodsCategoryName": "智能电视机"
+                    },
+                    {
+                        "categoryCode": "003862",
+                        "spuId": 6237,
+                        "spuName": "OPPO 智能电视 K9x",
+                        "marketingText": "开机无广告",
+                        "skuId": 6836,
+                        "skuName": "OPPO 智能电视 K9x 50英寸",
+                        "mainImg": "https://dsfs.oppo.com/omp/1658996002050-_-41e15da65f754420950e7ad5e6fa541e.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6836&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满100减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵1.5%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"开机无广告\",\"timing\":0}]",
+                        "spuShortDesc": "开机无广告",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "1389",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "1399",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "1389",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 69,
+                        "goodsTopCategoryName": "OPPO 电视",
+                        "goodsCategoryId": 70,
+                        "goodsCategoryName": "智能电视机"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003864",
+                "name": "S1 系列",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 9,
+                "firstLevelCode": "003861",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003864",
+                        "spuId": 20800,
+                        "spuName": "OPPO 智能电视 S1",
+                        "marketingText": "",
+                        "skuId": 21543,
+                        "skuName": "OPPO 智能电视 S1 65英寸",
+                        "mainImg": "https://dsfs.oppo.com/archives/202109/2021092705092061518c205f53d.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=21543&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "6期免息"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "6999",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "7999",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": "6999",
+                            "currencyTag": "￥",
+                            "prefix": "到手价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 69,
+                        "goodsTopCategoryName": "OPPO 电视",
+                        "goodsCategoryId": 70,
+                        "goodsCategoryName": "智能电视机"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003865",
+                "name": "R1 系列",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 8,
+                "firstLevelCode": "003861",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003865",
+                        "spuId": 972,
+                        "spuName": "OPPO 智能电视 R1",
+                        "marketingText": "",
+                        "skuId": 2226,
+                        "skuName": "OPPO 智能电视 R1 55英寸",
+                        "mainImg": "https://dsfs.oppo.com/archives/202010/202010190810275f8d8233b57a7.png",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=2226&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "4299",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "4299",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 69,
+                        "goodsTopCategoryName": "OPPO 电视",
+                        "goodsCategoryId": 70,
+                        "goodsCategoryName": "智能电视机"
+                    },
+                    {
+                        "categoryCode": "003865",
+                        "spuId": 21194,
+                        "spuName": "OPPO 智能电视 R1 乐享版",
+                        "marketingText": "",
+                        "skuId": 22308,
+                        "skuName": "OPPO 智能电视 R1 55英寸 乐享版 ",
+                        "mainImg": "https://dsfs.oppo.com/archives/202111/20211124031151619de39bac884.png?_w_=300&_h_=300",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22308&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "3999",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "3999",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 69,
+                        "goodsTopCategoryName": "OPPO 电视",
+                        "goodsCategoryId": 70,
+                        "goodsCategoryName": "智能电视机"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003867",
+                "name": "OPPO 电视配件",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 7,
+                "firstLevelCode": "003861",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003867",
+                        "spuId": 1104,
+                        "spuName": "OPPO 智能电视摄像头",
+                        "marketingText": "",
+                        "skuId": 2564,
+                        "skuName": "OPPO 智能电视摄像头",
+                        "mainImg": "https://dsfs.oppo.com/archives/202011/202011131111535faea81517502.png",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=2564&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "399",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "399",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 67,
+                        "goodsCategoryName": "摄像头（旧分类）"
+                    },
+                    {
+                        "categoryCode": "003867",
+                        "spuId": 20798,
+                        "spuName": "OPPO 蓝牙语音遥控器",
+                        "marketingText": "",
+                        "skuId": 21540,
+                        "skuName": "OPPO 蓝牙语音遥控器 黑色",
+                        "mainImg": "https://dsfs.oppo.com/archives/202110/20211018081047616d69abbc8b3.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=21540&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "99",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "99",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 69,
+                        "goodsTopCategoryName": "OPPO 电视",
+                        "goodsCategoryId": 71,
+                        "goodsCategoryName": "电视机配件"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        }
+    ]
+}

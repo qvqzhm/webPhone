@@ -1,0 +1,146 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "category": {
+                "categoryCode": "002402",
+                "name": "IP周边",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 999,
+                "firstLevelCode": "002393",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109865073,
+                "version": 1662109865073,
+                "ads": [
+                    {
+                        "logoUrl": "https://dsfs.oppo.com/omp/1656727249908-_-155b796464ed4a0aa159e04ac6fd4b99.jpg?_w_=738&_h_=240",
+                        "video": "",
+                        "desc": "",
+                        "defaultUrl": "https://www.opposhop.cn/cn/m/product/index?skuId=8080",
+                        "loginValid": false,
+                        "scopeJson": null
+                    }
+                ],
+                "moreAd": null,
+                "goods": []
+            },
+            "child": [
+                {
+                    "category": {
+                        "categoryCode": "002456",
+                        "name": "小欧周边",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1656555071533-_-21f9098dd7f741d5b67bde326f15bf21.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1656555071533-_-21f9098dd7f741d5b67bde326f15bf21.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 999,
+                        "firstLevelCode": "002393",
+                        "secondLevelCode": "002402",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002402&sub_cata=002456&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109865073,
+                        "version": 1662109865073,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                },
+                {
+                    "category": {
+                        "categoryCode": "002644",
+                        "name": "影视/动漫周边",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1642072703430-_-43346b36240c409fabfb48c76f581d02.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1642072703430-_-43346b36240c409fabfb48c76f581d02.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 998,
+                        "firstLevelCode": "002393",
+                        "secondLevelCode": "002402",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002402&sub_cata=002644&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109865073,
+                        "version": 1662109865073,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                }
+            ],
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "002647",
+                "name": "数码潮玩",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 998,
+                "firstLevelCode": "002393",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109865073,
+                "version": 1662109865073,
+                "ads": [],
+                "moreAd": null,
+                "goods": []
+            },
+            "child": [
+                {
+                    "category": {
+                        "categoryCode": "002648",
+                        "name": "乐器",
+                        "subtitle": null,
+                        "style": null,
+                        "logo": {
+                            "mainPic": "https://dsfs.oppo.com/omp/1642072703237-_-fdc667a6777546a4b2b41b81c76d0190.png?_w_=1080&_h_=1080",
+                            "secondaryPic": "https://dsfs.oppo.com/omp/1642072703237-_-fdc667a6777546a4b2b41b81c76d0190.png?_w_=1080&_h_=1080",
+                            "link": null
+                        },
+                        "level": 3,
+                        "weight": 999,
+                        "firstLevelCode": "002393",
+                        "secondLevelCode": "002647",
+                        "link": "https://store.oppo.com/cn/m/commodity?cata=002647&sub_cata=002648&us=fenleiye",
+                        "loginValid": null,
+                        "efficientTime": 1662109865073,
+                        "version": 1662109865073,
+                        "ads": [],
+                        "moreAd": null,
+                        "goods": null
+                    },
+                    "child": null,
+                    "refreshTime": null
+                }
+            ],
+            "refreshTime": 2
+        }
+    ]
+}

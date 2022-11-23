@@ -1,0 +1,204 @@
+@import '../../css/utile.scss';
+
+.classify_header{
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0.46rem;
+  padding: 0.065rem 0.15rem;
+  display: flex;
+  align-items: center;
+  background: white;
+  box-sizing: border-box;
+  justify-content: center;
+  z-index: 99;
+  .c_search{
+    background: $bg;
+    display: flex;
+    flex: 1;
+    height: 100%;
+    border-radius: 0.05rem;
+    align-items: center;
+    .search_icon{
+      width: 0.18rem;
+      height: 0.18rem;
+      background-image: url(".././oppo/res/drawable-xxhdpi-v4/main_search_icon.png");
+      background-size: 100%;
+      background-repeat: no-repeat;
+      margin: 0 0.05rem;
+    }
+    input{
+      margin-bottom: 0;
+      margin-left: 0.05rem;
+      font-size: 13px;
+      flex: 1;
+      background: $bg;
+      border: none;
+      height: 100%;
+      border-radius: 0.05rem;
+      outline: none;
+    }
+  }
+
+}
+
+.classify_goods{
+  background: white;
+  width: 100%;
+  min-width: 300px;
+  display: flex;
+  overflow: hidden;
+  margin-bottom: 0.55rem;
+  .classify_nav{
+    overflow-y: scroll;
+    width: 0.94rem;
+    height: 100vh;
+    min-width: 80px;
+    border-right: 0.01rem solid $txtcolor;
+    ul{
+      position: relative;
+      width: 100%;
+      height: 100%;
+      li{
+        font-size: 0.115rem;
+        padding: 0 0.08rem;
+        line-height: 0.53rem;
+        color: rgba(0,0,0,.6);
+        position: relative;
+        font-weight: 400;
+        transition: .5s all;
+        span{
+          display: inline-block;
+          width: 100%;
+          height: 100%;
+          text-align: center;
+        }
+      }
+      .nav_active{
+        font-weight: 700;
+        color: rgb(0,0,0);
+        &::after{
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          width: 0.03rem;
+          height: 0.15rem;
+          margin: auto;
+          background: #000;
+          content: '';
+        }
+      }
+    }
+  }
+
+  .classify_goodsList{
+    flex: 1;
+    background: white;
+    padding: $pad;
+    height: 100vh;
+    min-width: 220px;
+    box-sizing: border-box;
+    overflow-y: scroll;
+    .c_g_ul{
+      position: relative;
+      width: 100%;
+      li{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        .bigtypeimg{
+          width: 100%;
+          margin: 0.06rem 0;
+        }
+        .type{
+          width: 100%;
+          p{
+            color: black;
+            line-height: 0.42rem;
+            font-size: 0.15rem;
+            padding-left: 0.08rem;
+          }
+          .t1{
+            width: 100%;
+            li{
+              padding: 0.1rem 0;
+              display: flex;
+              flex-wrap: nowrap;
+              background: #f8f8f8;
+              border-radius: 0.125rem;
+              margin-bottom: 0.08rem;
+              img{
+                width: 0.56rem;
+                height: 0.56rem;
+                margin: 0 0.1rem;
+              }
+              .t_right{
+                flex: 1;
+                display: flex;
+                flex-wrap: wrap;
+                align-content: space-around;
+                overflow: hidden;
+                .g_name{
+                  font-size: 0.12rem;
+                  line-height: 0.12rem;
+                  text-overflow: ellipsis;
+                  white-space: nowrap;
+                  overflow: hidden;
+                  width: 100%;
+                }
+                .g_info{
+                  font-size: 0.12rem;
+                  color: rgba(0,0,0,.3);
+                  line-height: 0.12rem;
+                  text-overflow: ellipsis;
+                  white-space: nowrap;
+                  overflow: hidden;
+                  width: 100%;
+                }
+                .g_price{
+                  font-size: 0.12rem;
+                  line-height: 0.12rem;
+                  color: rgba(0,0,0,.85);
+                }
+              }
+            }
+            li:last-child{
+              margin-bottom: 0;
+            }
+          }
+          .t2{
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            li{
+              width: 32%;
+              padding-top: 0.1rem;
+              display: flex;
+              flex-wrap: wrap;
+              justify-content: center;
+              text-align: center;
+              img{
+                width: 0.51rem;
+                height: 0.51rem;
+              }
+              p{
+                margin-top: 0.05rem;
+                width: 100%;
+                font-size: 0.12rem;
+                font-weight: 400;
+                line-height: 1;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.nicescroll-cursors,.nicescroll-rails{
+  display: none;
+}

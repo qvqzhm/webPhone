@@ -1,0 +1,231 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 100px;
+}
+
+body {
+  background: #f7f8fa;
+}
+
+.order_header {
+  width: 100%;
+  height: 0.46rem;
+  position: sticky;
+  top: 0;
+  z-index: 9;
+  background: white;
+}
+.order_header .backindex {
+  display: inline-block;
+  width: 0.23rem;
+  height: 0.23rem;
+  position: absolute;
+  top: 50%;
+  left: 0.2rem;
+  z-index: 9;
+  transform: translateY(-50%);
+  background-image: url("../../oppo/res/drawable-xxhdpi-v4/toolbar_back.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.order_header .order_type {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.order_header .order_type ul {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+.order_header .order_type ul li {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  font-size: 0.17rem;
+  color: rgba(0, 0, 0, 0.85);
+  margin: 0 0.05rem;
+}
+
+.order_center {
+  padding: 0.12rem 0.12rem 0;
+  box-sizing: border-box;
+  width: 100%;
+}
+.order_center .add_dizhi {
+  height: 0.46rem;
+  border-radius: 0.08rem;
+  background: white;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0.1rem;
+}
+.order_center .add_dizhi span {
+  width: 0.24rem;
+  height: 0.24rem;
+  background-image: url("../../oppo/res/drawable-xxhdpi-v4/add_enable_drawable.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.order_center .add_dizhi p {
+  margin-bottom: 0;
+  font-size: 0.15rem;
+}
+.order_center .order_goods {
+  width: 100%;
+  margin-bottom: 0.1rem;
+}
+.order_center .order_goods ul {
+  width: 100%;
+  margin-bottom: 0.1rem;
+}
+.order_center .order_goods ul li {
+  width: 100%;
+  padding: 0.12rem;
+  box-sizing: border-box;
+  border-radius: 0.08rem;
+  background: white;
+  display: flex;
+  margin-bottom: 0.1rem;
+}
+.order_center .order_goods ul li .order_img {
+  width: 0.84rem;
+  height: 0.84rem;
+  overflow: hidden;
+  background-color: #f6f6f6;
+  border-radius: 0.15rem;
+  margin-right: 0.08rem;
+}
+.order_center .order_goods ul li .order_img img {
+  width: 100%;
+  height: 100%;
+}
+.order_center .order_goods ul li .order_canshu {
+  flex: 1;
+}
+.order_center .order_goods ul li .order_canshu .order_name {
+  margin-bottom: 0;
+  font-size: 0.16rem;
+  color: black;
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.order_center .order_goods ul li .order_canshu .order_fuli {
+  margin: 0.05rem 0 0.12rem 0;
+}
+.order_center .order_goods ul li .order_canshu .order_fuli span {
+  margin: 0 0.02rem;
+  padding: 0 0.04rem;
+  color: #f34141;
+  font-size: 0.1rem;
+  border: 0.01rem solid rgba(243, 65, 65, 0.3);
+  border-radius: 0.06rem;
+}
+.order_center .order_goods ul li .order_price {
+  display: flex;
+  justify-content: space-between;
+}
+.order_center .order_goods ul li .order_price p {
+  margin-bottom: 0;
+  color: #f34141;
+  font-size: 0.12rem;
+}
+.order_center .order_goods ul li .order_price .order_buyprice {
+  display: flex;
+  align-items: center;
+}
+.order_center .order_goods ul li .order_price .order_buyprice .nowbuyprice span {
+  font-size: 0.15rem;
+}
+.order_center .order_goods ul li .order_price .order_buyprice .oldbuyprice {
+  color: rgba(0, 0, 0, 0.3);
+  margin-left: 0.04rem;
+  transform-origin: left;
+  transform: scale(0.7);
+}
+.order_center .order_goods ul li .order_price .order_buyprice .oldbuyprice span {
+  text-decoration: line-through;
+}
+.order_center .order_goods ul li .order_price .order_num {
+  font-size: 0.12rem;
+}
+.order_center .order_goods .order_youhui {
+  background: white;
+  padding: 0.12rem;
+  box-sizing: border-box;
+  border-radius: 0.08rem;
+  margin-bottom: 0.65rem;
+}
+.order_center .order_goods .order_youhui .type1, .order_center .order_goods .order_youhui .type2, .order_center .order_goods .order_youhui .type3 {
+  width: 100%;
+  display: flex;
+  font-size: 0.13rem;
+  color: black;
+  justify-content: space-between;
+}
+.order_center .order_goods .order_youhui .type1 {
+  margin-bottom: 0.12rem;
+}
+.order_center .order_goods .order_youhui .type1 span:last-child {
+  color: #f34141;
+}
+.order_center .order_goods .order_youhui .type2 {
+  margin-bottom: 0.12rem;
+}
+.order_center .order_goods .order_youhui .type3 i {
+  font-size: 0.12rem;
+  color: #b2b2b2;
+}
+
+.order_footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background: white;
+  z-index: 99;
+  font-size: 0.14rem;
+  height: 0.6rem;
+  display: flex;
+  align-items: center;
+  padding: 0 0.08rem;
+  justify-content: space-between;
+  width: 100%;
+}
+.order_footer p {
+  margin-bottom: 0;
+  font-size: 0.14rem;
+  color: black;
+}
+.order_footer .order_total {
+  display: flex;
+  align-items: end;
+}
+.order_footer .order_total .order_totalprice {
+  color: #f34141;
+  margin-left: 0.05rem;
+  font-size: 0.12rem;
+}
+.order_footer .order_total .order_totalprice span {
+  font-size: 0.18rem;
+}
+.order_footer .order_topay {
+  font-size: 0.14rem;
+  color: white;
+}
+.order_footer .order_topay span {
+  background: #f34141;
+  padding: 0.1rem 0.15rem;
+  border-radius: 0.3rem;
+}
+
+/*# sourceMappingURL=order.css.map */

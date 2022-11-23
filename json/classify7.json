@@ -1,0 +1,365 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "category": {
+                "categoryCode": "002707",
+                "name": "智美生活",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 1,
+                "firstLevelCode": "002706",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [
+                    {
+                        "logoUrl": "https://dsfs.oppo.com/omp/1661392236262-_-298f7e3d64014420a98423f009298ce6.jpg?_w_=738&_h_=240",
+                        "video": "",
+                        "desc": "",
+                        "defaultUrl": "https://store.oppo.com/cn/app/product/index?skuId=8520",
+                        "loginValid": false,
+                        "scopeJson": null
+                    }
+                ],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "002707",
+                        "spuId": 6791,
+                        "spuName": "OPPO 智美生活 智能摄像头",
+                        "marketingText": "",
+                        "skuId": 8378,
+                        "skuName": "OPPO 智美生活 智能摄像头 300万超清",
+                        "mainImg": "https://dsfs.oppo.com/omp/1659577458200-_-88892f85553a431ea41108f63c7e44ce.png?_w_=1080&_h_=1080",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8378&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满600减80"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "148",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "148",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 6045,
+                        "goodsTopCategoryName": "智美生活",
+                        "goodsCategoryId": 6048,
+                        "goodsCategoryName": "数码周边"
+                    },
+                    {
+                        "categoryCode": "002707",
+                        "spuId": 6888,
+                        "spuName": "OPPO智美生活 智能声波牙刷S1 ",
+                        "marketingText": "",
+                        "skuId": 8652,
+                        "skuName": "OPPO智美生活 智能声波牙刷S1  原野绿",
+                        "mainImg": "https://dsfs.oppo.com/omp/1661938509567-_-390d9d41f94041f1beb0e3eb134017e4.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8652&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "新品",
+                                "type": 0,
+                                "descList": [
+                                    "新品"
+                                ]
+                            },
+                            {
+                                "title": "赠品",
+                                "type": 2,
+                                "descList": [
+                                    "赠"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "269",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "269",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 6045,
+                        "goodsTopCategoryName": "智美生活",
+                        "goodsCategoryId": 6046,
+                        "goodsCategoryName": "运动健康"
+                    },
+                    {
+                        "categoryCode": "002707",
+                        "spuId": 6848,
+                        "spuName": "OPPO智美生活 智能猫砂盆S1",
+                        "marketingText": "",
+                        "skuId": 8520,
+                        "skuName": "OPPO智美生活 智能猫砂盆S1 白色",
+                        "mainImg": "https://dsfs.oppo.com/omp/1660098877699-_-60a3931429f644fe8b12a87044fa9b25.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8520&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "新品",
+                                "type": 0,
+                                "descList": [
+                                    "新品"
+                                ]
+                            },
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "6期免息"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "999",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "999",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 6045,
+                        "goodsTopCategoryName": "智美生活",
+                        "goodsCategoryId": 6050,
+                        "goodsCategoryName": "生活日用"
+                    },
+                    {
+                        "categoryCode": "002707",
+                        "spuId": 6842,
+                        "spuName": "OPPO 智美生活 读写台灯S1",
+                        "marketingText": "",
+                        "skuId": 8513,
+                        "skuName": "OPPO 智美生活 读写台灯S1 白色",
+                        "mainImg": "https://dsfs.oppo.com/omp/1660098630374-_-acd1fce4876b4433892384a4b7662733.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8513&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "新品",
+                                "type": 0,
+                                "descList": [
+                                    "新品"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满600减80"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": "229",
+                            "price": "209",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "229",
+                            "price": "209",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 6045,
+                        "goodsTopCategoryName": "智美生活",
+                        "goodsCategoryId": 6052,
+                        "goodsCategoryName": "家用电器"
+                    },
+                    {
+                        "categoryCode": "002707",
+                        "spuId": 6397,
+                        "spuName": "OPPO 智美生活 智能声波牙刷 N1",
+                        "marketingText": "",
+                        "skuId": 7435,
+                        "skuName": "OPPO 智美生活 智能声波牙刷 N1 鸥羽白",
+                        "mainImg": "https://dsfs.oppo.com/omp/1653036137350-_-b576c1dc89374f96bb957866557d6914.png?_w_=1080&_h_=1080",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7435&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "赠品",
+                                "type": 2,
+                                "descList": [
+                                    "赠"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满600减80"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": "249",
+                            "price": "149",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "249",
+                            "price": "149",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 6045,
+                        "goodsTopCategoryName": "智美生活",
+                        "goodsCategoryId": 6046,
+                        "goodsCategoryName": "运动健康"
+                    },
+                    {
+                        "categoryCode": "002707",
+                        "spuId": 6408,
+                        "spuName": "OPPO 智美生活 全自动智能门锁",
+                        "marketingText": "",
+                        "skuId": 7440,
+                        "skuName": "OPPO 智美生活 全自动智能门锁 星空灰",
+                        "mainImg": "https://dsfs.oppo.com/omp/1653033298605-_-6b145ebe86c14f4ba841e60211ab4d03.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7440&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满600减80"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "1919",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "1999",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "1919",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 6045,
+                        "goodsTopCategoryName": "智美生活",
+                        "goodsCategoryId": 6052,
+                        "goodsCategoryName": "家用电器"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        }
+    ]
+}

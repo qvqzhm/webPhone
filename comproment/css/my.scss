@@ -1,0 +1,216 @@
+@import '../../css/utile.scss';
+
+@include reset();
+
+.my_header{
+  width: 100%;
+  padding: 0 $pad;
+  box-sizing: border-box;
+  //background-image: url("../oppo/res/drawable-xxhdpi-v4/service_warranty_bg_normal.webp");
+  //background-size: 100%;
+  //background-repeat: no-repeat;
+  background-color: white;
+  .my_info{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.21rem 0;
+    display: flex;
+    .my_img{
+      width: 0.62rem;
+      height: 0.62rem;
+      img{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+      }
+    }
+    .my_name{
+      flex: 1;
+      display: flex;
+      align-content: center;
+      flex-wrap: wrap;
+      padding-left: $pad;
+      box-sizing: border-box;
+      p{
+        font-size: 0.17rem;
+        margin-bottom: 0;
+        width: 100%;
+        color: black;
+      }
+      span{
+        font-size: 0.13rem;
+        color: #666666;
+      }
+    }
+    .login{
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      span{
+        padding: 0.02rem 0.2rem;
+        background-color: #f63434;
+        font-size: 0.14rem;
+        border-radius: 0.15rem;
+      }
+    }
+  }
+  .my_jifen{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .quan{
+      width: 33%;
+      text-align: center;
+    }
+    .jifen{
+      width: 33%;
+      text-align: center;
+    }
+    p{
+      font-size: 0.13rem;
+      color: black;
+      margin-bottom: 0;
+    }
+    span{
+      margin-bottom:$pad;
+      font-size: 0.15rem;
+    }
+  }
+}
+
+.my_car{
+  width: 100%;
+  padding: $pad 0.17rem;
+  display: flex;
+  justify-content: space-between;
+  background: white;
+  >{
+    span{
+      font-size: 0.15rem;
+    }
+    p{
+      margin-bottom: 0;
+      font-size: 0.13rem;
+      color: #666666;
+      display: flex;
+      align-items: center;
+      span{
+        display: inline-block;
+        width: 0.17rem;
+        height: 0.17rem;
+        background-image: url("../oppo/res/drawable-xxhdpi-v4/ic_right_arrow.png");
+        background-repeat: no-repeat;
+        background-size: 100%;
+      }
+    }
+  }
+}
+
+.my_nav{
+  width: 100%;
+  padding:0 0.05rem;
+  background: white;
+  ul{
+    display: flex;
+    li{
+      width: 20%;
+      margin: 0.075rem;
+      text-align: center;
+      img{
+        width: 0.24rem;
+        height: 0.24rem;
+      }
+      p{
+        margin-bottom: 0;
+        font-size: 0.13rem;
+        margin-top: 0.05rem;
+      }
+    }
+  }
+}
+
+.my_usually{
+  width: 100%;
+  background: white;
+  padding: 0 $pad 0.15rem;
+  .title{
+    padding: $pad 0.05rem;
+    font-size: 0.15rem;
+  }
+  ul{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    li{
+      width: 25%;
+      text-align: center;
+      padding: 0.1rem 0.06rem 0;
+      box-sizing: border-box;
+      img{
+        width: 0.31rem;
+        height: 0.31rem;
+      }
+      p{
+        margin-bottom: 0;
+        font-size: 0.13rem;
+        margin-top: 0.06rem;
+      }
+    }
+  }
+}
+
+.my_footer{
+  margin-top: $pad;
+  width: 100%;
+  background: white;
+  padding: 0.1rem;
+  ul{
+    display: flex;
+    li{
+      flex: 1;
+      text-align: center;
+      display: flex;
+      align-content: center;
+      justify-content: center;
+      .f_icon1{
+        display: inline-block;
+        width: 0.24rem;
+        height: 0.24rem;
+        background-image: url("../oppo/res/drawable-xxhdpi-v4/ic_login_device.png");
+        background-size: 100%;
+        background-repeat: no-repeat;
+      }
+      .f_icon2{
+        display: inline-block;
+        width: 0.24rem;
+        height: 0.24rem;
+        background-image: url("../oppo/res/drawable-xxhdpi-v4/share_dark.png");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        transform: rotate(90deg);
+        background-color: #333333;
+      }
+      span{
+        font-size: 0.13rem;
+      }
+    }
+  }
+  .shouquan{
+    margin-top: 0.15rem;
+    width: 100%;
+    color: #666666;
+    ul{
+      display: flex;
+      margin-bottom: 0.1rem;
+      li{
+        font-size: 0.1rem;
+      }
+    }
+    p{
+      margin-bottom: 0;
+      text-align: center;
+      font-size: 0.1rem;
+    }
+  }
+}

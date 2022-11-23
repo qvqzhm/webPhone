@@ -1,0 +1,478 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "category": {
+                "categoryCode": "003523",
+                "name": "OPPO 平板",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 100,
+                "firstLevelCode": "000035",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [
+                    {
+                        "logoUrl": "https://dsfs.oppo.com/omp/1660819076688-_-05d712e3b2d44acaa371ad060a056c58.png?_w_=738&_h_=240",
+                        "video": "",
+                        "desc": "",
+                        "defaultUrl": "https://www.opposhop.cn/cn/web/products/6349.html?us=fenleiye&um=pad",
+                        "loginValid": false,
+                        "scopeJson": null
+                    }
+                ],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003523",
+                        "spuId": 21449,
+                        "spuName": "OPPO Pad ",
+                        "marketingText": "骁龙 870 处理器",
+                        "skuId": 22860,
+                        "skuName": "OPPO Pad  6GB+128GB 耀夜黑 官方标配",
+                        "mainImg": "https://dsfs.oppo.com/omp/1654761851046-_-87a9b478ed9347c3b18ba4414f7a2e3a.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22860&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "6期免息"
+                                ]
+                            },
+                            {
+                                "title": "赠品",
+                                "type": 2,
+                                "descList": [
+                                    "赠"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满59减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵50元"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "骁龙 870 处理器",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "2089",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "2299",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "2089",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 25030,
+                        "goodsCategoryName": "OPPO平板（核心品）"
+                    },
+                    {
+                        "categoryCode": "003523",
+                        "spuId": 6362,
+                        "spuName": "OPPO Pad Air",
+                        "marketingText": "儿童教育助手",
+                        "skuId": 7208,
+                        "skuName": "OPPO Pad Air 4GB+64GB 雾灰 官方标配",
+                        "mainImg": "https://dsfs.oppo.com/omp/1657101147279-_-c269e1823ef94f23bbdfc193403771bc.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7208&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "赠品",
+                                "type": 2,
+                                "descList": [
+                                    "赠"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满59减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵30元"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "儿童教育助手",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "1189",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "1299",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "1189",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 25030,
+                        "goodsCategoryName": "OPPO平板（核心品）"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003530",
+                "name": "OPPO 平板配件",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 80,
+                "firstLevelCode": "000035",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003530",
+                        "spuId": 21481,
+                        "spuName": "OPPO 智美生活 智能磁吸键盘",
+                        "marketingText": "",
+                        "skuId": 7695,
+                        "skuName": "OPPO 智美生活 智能磁吸键盘 仅适用 OPPO Pad Air",
+                        "mainImg": "https://dsfs.oppo.com/omp/1661399246891-_-11a933014bfd4247959d458f8ac0d520.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7695&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满59减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "339",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "349",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "339",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 25034,
+                        "goodsCategoryName": "平板配件"
+                    },
+                    {
+                        "categoryCode": "003530",
+                        "spuId": 21482,
+                        "spuName": "OPPO Pencil 自研手写笔",
+                        "marketingText": "仅适用 OPPO Pad",
+                        "skuId": 22931,
+                        "skuName": "OPPO Pencil 自研手写笔 OPPO Pad",
+                        "mainImg": "https://dsfs.oppo.com/archives/202202/2022022403021462173316cc2cf.png?_w_=321&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22931&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满59减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "仅适用 OPPO Pad",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "489",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "499",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "489",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 25034,
+                        "goodsCategoryName": "平板配件"
+                    },
+                    {
+                        "categoryCode": "003530",
+                        "spuId": 6520,
+                        "spuName": "OPPO 智美生活 智能手写笔",
+                        "marketingText": "仅适用 OPPO Pad Air",
+                        "skuId": 7696,
+                        "skuName": "OPPO 智美生活 智能手写笔 OPPO Pad Air",
+                        "mainImg": "https://dsfs.oppo.com/omp/1653237556797-_-671afcb4945c47abb2a2b0e8cfffce7a.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7696&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满59减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "仅适用 OPPO Pad Air",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "289",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "299",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "289",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 25034,
+                        "goodsCategoryName": "平板配件"
+                    },
+                    {
+                        "categoryCode": "003530",
+                        "spuId": 21483,
+                        "spuName": "OPPO 智美生活 智能皮套",
+                        "marketingText": "智能休眠 | 磁吸支撑",
+                        "skuId": 22932,
+                        "skuName": "OPPO 智美生活 智能皮套 黑色 仅适用 OPPO Pad",
+                        "mainImg": "https://dsfs.oppo.com/archives/202202/20220224030253621733f14583f.png?_w_=321&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22932&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满59减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "智能休眠 | 磁吸支撑",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "139",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "149",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "139",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 25034,
+                        "goodsCategoryName": "平板配件"
+                    },
+                    {
+                        "categoryCode": "003530",
+                        "spuId": 21484,
+                        "spuName": "OPPO 智美生活 平板钢化膜",
+                        "marketingText": "仅适用 OPPO Pad Air",
+                        "skuId": 7917,
+                        "skuName": "OPPO 智美生活 平板钢化膜 高清 仅适用 OPPO Pad Air",
+                        "mainImg": "https://dsfs.oppo.com/omp/1654483325819-_-1de3921c61544106b1ffb0ccac93b1f6.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7917&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满59减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"仅适用 OPPO Pad Air\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "49",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "59",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "49",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 25034,
+                        "goodsCategoryName": "平板配件"
+                    },
+                    {
+                        "categoryCode": "003530",
+                        "spuId": 21485,
+                        "spuName": "OPPO Pad 大都会平板电脑包",
+                        "marketingText": "",
+                        "skuId": 22935,
+                        "skuName": "OPPO 平板 大都会平板电脑包",
+                        "mainImg": "https://dsfs.oppo.com/archives/202203/20220302110309621ee755624fe.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22935&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "149",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "149",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 25034,
+                        "goodsCategoryName": "平板配件"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        }
+    ]
+}

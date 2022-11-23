@@ -1,0 +1,741 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "category": {
+                "categoryCode": "004212",
+                "name": "OPPO Watch 3 系列",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 10000,
+                "firstLevelCode": "000034",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [
+                    {
+                        "logoUrl": "https://dsfs.oppo.com/omp/1660814781313-_-7bc2f3d2a880433fbdb4a012250344c0.jpg?_w_=738&_h_=240",
+                        "video": "",
+                        "desc": "",
+                        "defaultUrl": "/pages/product/index?skuId=8384&us=fenleiye&um=pad",
+                        "loginValid": false,
+                        "scopeJson": null
+                    }
+                ],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "004212",
+                        "spuId": 6795,
+                        "spuName": "OPPO Watch 3 系列全智能手表",
+                        "marketingText": "旗舰双芯片",
+                        "skuId": 8384,
+                        "skuName": "OPPO Watch 3 系列全智能手表 Watch 3 Pro 铂黑 氟橡胶表带款",
+                        "mainImg": "https://dsfs.oppo.com/omp/1660129796666-_-3ad0588060dd42a09f45dd7b11c8277d.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8384&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "6期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满99减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "旗舰双芯片",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "1989",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "1999",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "1989",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 27,
+                        "goodsCategoryName": "智能穿戴（核心品）"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "001576",
+                "name": "OPPO Watch 2 系列",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 9000,
+                "firstLevelCode": "000034",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "001576",
+                        "spuId": 20192,
+                        "spuName": "OPPO Watch 2 智能手表 铂黑 42mm eSIM 版",
+                        "marketingText": "双擎长续航",
+                        "skuId": 20329,
+                        "skuName": "OPPO Watch 2 智能手表 铂黑 42mm eSIM 版",
+                        "mainImg": "https://dsfs.oppo.com/archives/202107/2021072705075360ffd0e53aefc.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=20329&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满99减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵50元"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "双擎长续航",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "989",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "1499",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "989",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 27,
+                        "goodsCategoryName": "智能穿戴（核心品）"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "000042",
+                "name": "OPPO 智能手环",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 8000,
+                "firstLevelCode": "000034",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "000042",
+                        "spuId": 6798,
+                        "spuName": "OPPO 手环 2",
+                        "marketingText": "全屏 全面升级",
+                        "skuId": 8391,
+                        "skuName": "OPPO 手环 2 NFC 版 晴云蓝",
+                        "mainImg": "https://dsfs.oppo.com/omp/1660532261710-_-830f09a8a64d440faa1317247a1ab8b9.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8391&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满299减30"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵5%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "全屏 全面升级",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "269",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "299",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "269",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 27,
+                        "goodsCategoryName": "智能穿戴（核心品）"
+                    },
+                    {
+                        "categoryCode": "000042",
+                        "spuId": 685,
+                        "spuName": "OPPO 手环 时尚版",
+                        "marketingText": "12款运动模式",
+                        "skuId": 1493,
+                        "skuName": "OPPO 手环 时尚版（NFC） 星空黑",
+                        "mainImg": "https://dsfs.oppo.com/archives/202006/202006050406565eda02c0eb95c.png",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=1493&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满99减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵30%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "12款运动模式",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "189",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "249",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "189",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 27,
+                        "goodsCategoryName": "智能穿戴（核心品）"
+                    },
+                    {
+                        "categoryCode": "000042",
+                        "spuId": 1660,
+                        "spuName": "OPPO 手环 活力版",
+                        "marketingText": "微信支付宝双支付",
+                        "skuId": 4074,
+                        "skuName": "OPPO 手环 活力版 橘色热浪",
+                        "mainImg": "https://dsfs.oppo.com/archives/202104/2021042709045360876fddbfe6d.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=4074&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满99减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵30%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "微信支付宝双支付",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "159",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "199",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "159",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 27,
+                        "goodsCategoryName": "智能穿戴（核心品）"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003844",
+                "name": "OPPO Watch Free 系列",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 89,
+                "firstLevelCode": "000034",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003844",
+                        "spuId": 20643,
+                        "spuName": "OPPO Watch Free 手表",
+                        "marketingText": "全场景睡眠监测",
+                        "skuId": 21160,
+                        "skuName": "OPPO Watch Free 手表 NFC版 静夜黑",
+                        "mainImg": "https://dsfs.oppo.com/archives/202109/2021091609092461434d44b0707.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=21160&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满99减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵30%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "全场景睡眠监测",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "289",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "599",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "289",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 27,
+                        "goodsCategoryName": "智能穿戴（核心品）"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003529",
+                "name": "OPPO 智能眼镜",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 80,
+                "firstLevelCode": "000034",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003529",
+                        "spuId": 21501,
+                        "spuName": "OPPO Air Glass 智能眼镜",
+                        "marketingText": "",
+                        "skuId": 6242,
+                        "skuName": "OPPO Air Glass 智能眼镜 银翼 大号镜架",
+                        "mainImg": "https://dsfs.oppo.com/omp/1645692461615-_-9af0df030e09480b84a98153c2d60c0e.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6242&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "4999",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "4999",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 25041,
+                        "goodsCategoryName": "智能眼镜"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "000412",
+                "name": "儿童手表",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 70,
+                "firstLevelCode": "000034",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "000412",
+                        "spuId": 20515,
+                        "spuName": "小天才 电话手表Q1C",
+                        "marketingText": "",
+                        "skuId": 20928,
+                        "skuName": "小天才 电话手表Q1C 湖绿",
+                        "mainImg": "https://dsfs.oppo.com/archives/202108/20210820110826611f289e2dc0f.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=20928&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "398",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "398",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 54,
+                        "goodsTopCategoryName": "小天才儿童手表",
+                        "goodsCategoryId": 64,
+                        "goodsCategoryName": "小天才"
+                    },
+                    {
+                        "categoryCode": "000412",
+                        "spuId": 1003,
+                        "spuName": "小天才 电话手表Q1A",
+                        "marketingText": "",
+                        "skuId": 2293,
+                        "skuName": "小天才 电话表Q1A 赤柚（红）",
+                        "mainImg": "https://dsfs.oppo.com/archives/202010/202010201010175f8e4f01ce054.png",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=2293&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "598",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "598",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 54,
+                        "goodsTopCategoryName": "小天才儿童手表",
+                        "goodsCategoryId": 64,
+                        "goodsCategoryName": "小天才"
+                    },
+                    {
+                        "categoryCode": "000412",
+                        "spuId": 936,
+                        "spuName": "小天才 儿童电话手表 Q2",
+                        "marketingText": "",
+                        "skuId": 2154,
+                        "skuName": "小天才 儿童电话表 Q2 暮光粉",
+                        "mainImg": "https://dsfs.oppo.com/archives/202106/2021061508062060c89ca84ec0c.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=2154&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "848",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "848",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 54,
+                        "goodsTopCategoryName": "小天才儿童手表",
+                        "goodsCategoryId": 64,
+                        "goodsCategoryName": "小天才"
+                    },
+                    {
+                        "categoryCode": "000412",
+                        "spuId": 915,
+                        "spuName": "小天才 电话手表Z5A",
+                        "marketingText": "GPS定位，多重定位，3G/4G视频通话，自定义表盘，来电提醒，拍照，短片录制，音乐播放",
+                        "skuId": 2107,
+                        "skuName": "小天才 电话表Z5A 绿色",
+                        "mainImg": "https://dsfs.oppo.com/archives/202106/2021061505062160c879f922b3f.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=2107&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "",
+                        "spuShortDesc": "GPS定位，多重定位，3G/4G视频通话，自定义表盘，来电提醒，拍照，短片录制，音乐播放",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "998",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "998",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 54,
+                        "goodsTopCategoryName": "小天才儿童手表",
+                        "goodsCategoryId": 64,
+                        "goodsCategoryName": "小天才"
+                    },
+                    {
+                        "categoryCode": "000412",
+                        "spuId": 914,
+                        "spuName": "小天才 电话手表Z6-巅峰版",
+                        "marketingText": "防水GPS定位，智能手表，3G/4G，视频通话，自定义表盘，来电提醒，拍照前后双摄",
+                        "skuId": 2105,
+                        "skuName": "小天才 电话表Z6-巅峰版 米亚罗红",
+                        "mainImg": "https://dsfs.oppo.com/archives/202106/2021061508063660c8a12c0e31d.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=2105&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "防水GPS定位，智能手表，3G/4G，视频通话，自定义表盘，来电提醒，拍照前后双摄",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "1998",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "1998",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 54,
+                        "goodsTopCategoryName": "小天才儿童手表",
+                        "goodsCategoryId": 64,
+                        "goodsCategoryName": "小天才"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        }
+    ]
+}

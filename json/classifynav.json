@@ -1,0 +1,181 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "categoryCode": "000024",
+            "name": "热门推荐",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662342687399,
+            "status": 1,
+            "efficientTime": 1662342687399,
+            "weight": 9999,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "000078",
+            "name": "OPPO",
+            "mainPic": "",
+            "secondaryPic": "",
+            "version": 1662109742135,
+            "status": 1,
+            "efficientTime": 1662109742135,
+            "weight": 2000,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "000323",
+            "name": "一加",
+            "mainPic": "",
+            "secondaryPic": "",
+            "version": 1662114272758,
+            "status": 1,
+            "efficientTime": 1662343200000,
+            "weight": 1500,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "000035",
+            "name": "平板电脑",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662109742135,
+            "status": 1,
+            "efficientTime": 1662109742135,
+            "weight": 1004,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "000019",
+            "name": "智能耳机",
+            "mainPic": null,
+            "secondaryPic": "",
+            "version": 1662109742135,
+            "status": 1,
+            "efficientTime": 1662109742135,
+            "weight": 1002,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "000034",
+            "name": "智能穿戴",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662109742135,
+            "status": 1,
+            "efficientTime": 1662109742135,
+            "weight": 1001,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "003861",
+            "name": "智能电视",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662109742135,
+            "status": 1,
+            "efficientTime": 1662109742135,
+            "weight": 1000,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "002706",
+            "name": "智美生活",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662109742135,
+            "status": 1,
+            "efficientTime": 1662109742135,
+            "weight": 999,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "000036",
+            "name": "原装配件",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662109742135,
+            "status": 1,
+            "efficientTime": 1662109742135,
+            "weight": 996,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "002389",
+            "name": "数码周边",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662109742135,
+            "status": 1,
+            "efficientTime": 1662109742135,
+            "weight": 995,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "002390",
+            "name": "家用电器",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662109742135,
+            "status": 1,
+            "efficientTime": 1662109742135,
+            "weight": 994,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "003838",
+            "name": "个护健康",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662109742135,
+            "status": 1,
+            "efficientTime": 1662109742135,
+            "weight": 993,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "003839",
+            "name": "运动户外",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662109742135,
+            "status": 1,
+            "efficientTime": 1662109742135,
+            "weight": 992,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "002392",
+            "name": "生活日用",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662369073665,
+            "status": 1,
+            "efficientTime": 1662369073665,
+            "weight": 991,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "002393",
+            "name": "文创潮玩",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662109865073,
+            "status": 1,
+            "efficientTime": 1662109865073,
+            "weight": 990,
+            "refreshTime": 5
+        },
+        {
+            "categoryCode": "003240",
+            "name": "保障服务",
+            "mainPic": null,
+            "secondaryPic": null,
+            "version": 1662109742135,
+            "status": 1,
+            "efficientTime": 1662109742135,
+            "weight": 989,
+            "refreshTime": 5
+        }
+    ]
+}

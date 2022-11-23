@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href="https://cdn.bootcdn.net/ajax/libs/mui/3.7.1/css/mui.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/index.css">
+    <link rel="stylesheet" href="../css/iconfont.css">
+    <script src="https://cdn.bootcdn.net/ajax/libs/mui/3.7.1/js/mui.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+    <div class="buycar_main">
+        <div class="buycar_header">
+            <span>购物车</span>
+        </div>
+
+        <div class="buy_total">
+            <p>共<span>1</span>件商品</p>
+            <div class="total_right">
+                <span>优惠券</span>
+                <p>编辑</p>
+            </div>
+        </div>
+
+        <div class="buy_goods">
+            <div class="havegoods">
+                <img src="data:image/png;base64,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" alt="">
+                <p>购物车还没有商品</p>
+                <button>去逛逛</button>
+            </div>
+            <div class="buycar_godos">
+                <ul>
+                </ul>
+            </div>
+        </div>
+
+        <div class="to_pay">
+            <div class="pay_left">
+                <img src="../oppo/res/drawable-xxhdpi-v4/check.png" ischeckall="true" alt="" class="checkall">
+                <span>全选</span>
+            </div>
+            <div class="pay_totalprice">
+                <div class="total_price">
+                    <span>合计: </span>
+                    <p>￥ <span>666</span></p>
+                </div>
+                <div class="total_quan">
+                    <span>优惠: </span>
+                    <p>￥ <span>0</span></p>
+                    <div class="mingxi">
+                        <span class="ti">优惠明细</span>
+                        <div class="showmingxi">
+                            <h4>优惠明细</h4>
+                            <span class="close"></span>
+                            <div class="mx_info">
+                                <div class="mx_price">
+                                    <span>商品总额</span>
+                                    <span>￥666</span>
+                                </div>
+                                <div class="mx_bt">
+                                    <span>限时补贴</span>
+                                    <span><i>-</i>￥66</span>
+                                </div>
+                                <div class="mx_q">
+                                    <span>优惠券优惠</span>
+                                    <span><i>-</i>￥0</span>
+                                </div>
+                                <div class="mx_total">
+                                    <h5>优惠总计</h5>
+                                    <span><i>-</i>￥666</span>
+                                </div>
+                                <p> 以上优惠不包含积分抵扣、支付优惠、运费，预计领取券数量有限，可能会领取失败，最终以结算页为准。 </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pay">
+                <p ispay="true">去结算
+                    <span>(1)</span>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="daohang">
+        <ul>
+            <li >
+                <span class="iconfont icon-shouye"></span>
+                <p>首页</p>
+            </li>
+            <li>
+                <span class="iconfont icon-fenlei"></span>
+                <p>分类</p>
+            </li>
+            <li class="nav_active">
+                <span class="iconfont icon-shouye1"></span>
+                <p>购物车</p>
+                <span class="jiaobiao">45</span>
+            </li>
+            <li>
+                <span class="iconfont icon-wode"></span>
+                <p>我的</p>
+            </li>
+        </ul>
+    </div>
+
+
+    <script src="js/utile.js"></script>
+    <script src="js/buycar.js"></script>
+</body>
+</html>

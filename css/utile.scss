@@ -1,0 +1,13 @@
+@mixin reset(){
+  *{
+    margin: 0;
+    padding: 0;
+  }
+}
+
+$fontsize:100px;
+
+$txtcolor:#b2b2b2;
+$bg:#f7f8fa;
+
+$pad:0.12rem;

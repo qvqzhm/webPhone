@@ -1,0 +1,1170 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.home_header {
+  width: 100%;
+  height: 0.46rem;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  position: absolute;
+  z-index: 99;
+  top: 0;
+}
+.home_header .search {
+  height: 0.33rem;
+  padding: 0 0.12rem;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  border-radius: 0.05rem;
+  box-sizing: border-box;
+}
+.home_header .search > div {
+  height: 0.33rem;
+  width: 100%;
+  background-color: #f8f9fa;
+  border-radius: 0.05rem;
+  display: flex;
+  align-items: center;
+}
+.home_header .search .search_icon {
+  width: 0.18rem;
+  height: 0.18rem;
+  background-image: url(".././oppo/res/drawable-xxhdpi-v4/main_search_icon.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.home_header .search input {
+  height: 100%;
+  width: 1.89rem;
+  margin: 0;
+  border: none;
+  background-color: #f8f9fa;
+  font-size: 0.14rem;
+  padding: 0 0.05rem;
+}
+.home_header .login {
+  width: 0.52rem;
+  height: 100%;
+  font-size: 0.16rem;
+  display: flex;
+  align-items: center;
+}
+
+.home_banner {
+  width: 100%;
+}
+
+.home_nav {
+  width: 100%;
+  background-color: white;
+  padding-bottom: 0.225rem;
+}
+.home_nav ul {
+  padding-top: 0.125rem;
+  display: flex;
+  justify-content: space-between;
+}
+.home_nav ul li {
+  width: 20%;
+  list-style: none;
+  text-align: center;
+}
+.home_nav ul li img {
+  width: 0.448rem;
+}
+.home_nav ul li p {
+  color: #333333;
+  font-size: 0.1rem;
+  margin: 0.06rem 0 0;
+  line-height: 0.1rem;
+}
+
+.home_goodsList {
+  box-sizing: border-box;
+  background-color: #f7f8fa;
+  margin-bottom: 0.55rem;
+}
+.home_goodsList .home_goods_title {
+  font-size: 0.15rem;
+  color: black;
+  margin-bottom: 0.07rem;
+  height: 0.3rem;
+  line-height: 0.3rem;
+}
+.home_goodsList .home_goods_bigimg {
+  display: none;
+}
+.home_goodsList .home_goods_type {
+  padding: 0.12rem 0.12rem 0;
+}
+.home_goodsList .home_goods_type .home_goods_type_big {
+  width: 100%;
+  height: 1.045rem;
+  border-radius: 0.1rem;
+  overflow: hidden;
+  margin-bottom: 0.06rem;
+}
+.home_goodsList .home_goods_type .home_goods_type_big img {
+  width: 100%;
+}
+.home_goodsList .home_goods_type ul {
+  width: 100%;
+  border-radius: 0.1rem;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.home_goodsList .home_goods_type ul li {
+  list-style: none;
+  width: 33%;
+  background-color: white;
+  padding-bottom: 0.15rem;
+  margin-top: 0.0175rem;
+}
+.home_goodsList .home_goods_type ul li img {
+  width: 100%;
+}
+.home_goodsList .home_goods_type ul li .home_goods_info {
+  padding: 0 0.08rem;
+  box-sizing: border-box;
+  text-align: left;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+}
+.home_goodsList .home_goods_type ul li .home_goods_info p:first-child {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  font-size: 0.13rem;
+  color: black;
+  margin: 0;
+  width: 100%;
+}
+.home_goodsList .home_goods_type ul li .home_goods_info p:last-child {
+  color: black;
+  margin: 0;
+  display: flex;
+}
+.home_goodsList .home_goods_type ul li .home_goods_info p:last-child .youhui_type {
+  transform: scale(0.7);
+}
+.home_goodsList .home_goods_type ul li .home_goods_info p:last-child span {
+  font-size: 0.06rem;
+  transform: scale(0.8);
+  transform-origin: left;
+}
+.home_goodsList .home_goods_type ul li .home_goods_info p:last-child .info_price {
+  transform: scale(1);
+  font-size: 0.14rem;
+}
+@media (min-width: 300px) and (max-width: 350px) {
+  .home_goodsList .home_goods_type ul li {
+    width: 49%;
+  }
+}
+@media (max-width: 299px) {
+  .home_goodsList .home_goods_type ul li {
+    width: 100%;
+  }
+}
+.home_goodsList .home_goods_type2 {
+  width: 100%;
+  padding: 0.12rem 0;
+}
+.home_goodsList .home_goods_type2 .goods_title {
+  padding: 0 0.12rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.07rem;
+}
+.home_goodsList .home_goods_type2 .goods_title .home_goods_title {
+  margin-bottom: 0;
+}
+.home_goodsList .home_goods_type2 .goods_title .gleft {
+  display: flex;
+  align-items: center;
+}
+.home_goodsList .home_goods_type2 .goods_title .gleft .time {
+  height: 0.3rem;
+  width: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.home_goodsList .home_goods_type2 .goods_title .gleft .time span {
+  color: #f93434;
+  font-size: 13px;
+}
+.home_goodsList .home_goods_type2 .goods_title .gleft span {
+  color: #b2b2b2;
+  font-size: 13px;
+}
+.home_goodsList .home_goods_type2 .goods_title .gright {
+  height: 0.3rem;
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+  color: #b2b2b2;
+}
+.home_goodsList .home_goods_type2 .goods_title .gright span {
+  display: inline-block;
+  width: 0.13rem;
+  height: 0.13rem;
+  background-image: url(".././oppo/res/drawable-xxhdpi-v4/right_zu_arraw.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner {
+  width: 100%;
+  overflow: hidden;
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner ul {
+  width: 100%;
+  border-radius: 0.1rem;
+  margin: 0 0.12rem;
+  padding: 0.06rem 0 0.12rem;
+  white-space: nowrap;
+  background: white;
+  position: relative;
+  display: flex;
+  flex-wrap: nowrap;
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner ul li {
+  width: 1.04rem;
+  text-align: center;
+  background: white;
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner ul li img {
+  width: 0.92rem;
+  height: 0.92rem;
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner ul li .pro_name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 0.13rem;
+  color: black;
+  margin-bottom: 0;
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner ul li .pro_price {
+  margin-bottom: 0;
+  transform-origin: left;
+  display: flex;
+  align-items: center;
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner ul li .pro_price .nowprice {
+  color: black;
+  font-size: 0.12rem;
+  transform: scale(0.66);
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner ul li .pro_price .nowprice span:last-child {
+  font-size: 0.2rem;
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner ul li .pro_price .oldprice {
+  font-size: 0.12rem;
+  transform: scale(0.76);
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner ul li .pro_price .oldprice span:last-child {
+  text-decoration: #b2b2b2 line-through;
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner ul li:last-child {
+  width: 0.92rem;
+  border-radius: 0.08rem 0.08rem;
+  border: 1px solid #e4e4e4;
+  line-break: anywhere;
+  padding: 0.2rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner ul li:last-child p {
+  width: 100%;
+  font-size: 0.125rem;
+}
+.home_goodsList .home_goods_type2 .goods_type2_banner ul li:last-child span {
+  background-image: url(".././oppo/res/drawable-xxhdpi-v4/more_icon.png");
+  width: 0.23rem;
+  height: 0.23rem;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.home_fixed {
+  position: fixed;
+  right: 0.12rem;
+  bottom: 0.75rem;
+  z-index: 99;
+}
+.home_fixed ul li {
+  width: 0.37rem;
+  height: 0.37rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: white;
+  border-radius: 0.1rem;
+}
+.home_fixed ul li span {
+  width: 0.25rem;
+  height: 0.25rem;
+  background-image: url(".././oppo/res/drawable-xxhdpi-v4/product_service_icon.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.home_fixed ul li:last-child {
+  margin-top: 0.08rem;
+}
+.home_fixed ul li:last-child span {
+  width: 0.25rem;
+  height: 0.25rem;
+  background-image: url(".././oppo/res/drawable-xxhdpi-v4/home_toolbar_back.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  transform: rotate(90deg);
+}
+
+.daohang {
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background: white;
+  height: 0.55rem;
+  z-index: 99;
+}
+.daohang p {
+  color: rgba(0, 0, 0, 0.5);
+  margin-bottom: 0;
+  font-size: 0.12rem;
+}
+.daohang ul {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+}
+.daohang ul li {
+  width: 25%;
+  text-align: center;
+  position: relative;
+}
+.daohang ul li span {
+  display: inline-block;
+  width: 0.24rem;
+  height: 0.24rem;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 0.18rem;
+}
+.daohang ul li .jiaobiao {
+  position: absolute;
+  top: 0;
+  right: 0.1rem;
+  background: #f34141;
+  border-radius: 50%;
+  color: black !important;
+  font-size: 0.12rem;
+  width: 0.2rem;
+  height: 0.2rem;
+}
+.daohang ul .nav_active span, .daohang ul .nav_active p {
+  color: #f34141;
+}
+
+.classify_header {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0.46rem;
+  padding: 0.065rem 0.15rem;
+  display: flex;
+  align-items: center;
+  background: white;
+  box-sizing: border-box;
+  justify-content: center;
+  z-index: 99;
+}
+.classify_header .c_search {
+  background: #f7f8fa;
+  display: flex;
+  flex: 1;
+  height: 100%;
+  border-radius: 0.05rem;
+  align-items: center;
+}
+.classify_header .c_search .search_icon {
+  width: 0.18rem;
+  height: 0.18rem;
+  background-image: url(".././oppo/res/drawable-xxhdpi-v4/main_search_icon.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: 0 0.05rem;
+}
+.classify_header .c_search input {
+  margin-bottom: 0;
+  margin-left: 0.05rem;
+  font-size: 13px;
+  flex: 1;
+  background: #f7f8fa;
+  border: none;
+  height: 100%;
+  border-radius: 0.05rem;
+  outline: none;
+}
+
+.classify_goods {
+  background: white;
+  width: 100%;
+  min-width: 300px;
+  display: flex;
+  overflow: hidden;
+  margin-bottom: 0.55rem;
+}
+.classify_goods .classify_nav {
+  overflow-y: scroll;
+  width: 0.94rem;
+  height: 100vh;
+  min-width: 80px;
+  border-right: 0.01rem solid #b2b2b2;
+}
+.classify_goods .classify_nav ul {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.classify_goods .classify_nav ul li {
+  font-size: 0.115rem;
+  padding: 0 0.08rem;
+  line-height: 0.53rem;
+  color: rgba(0, 0, 0, 0.6);
+  position: relative;
+  font-weight: 400;
+  transition: 0.5s all;
+}
+.classify_goods .classify_nav ul li span {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.classify_goods .classify_nav ul .nav_active {
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
+.classify_goods .classify_nav ul .nav_active::after {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 0.03rem;
+  height: 0.15rem;
+  margin: auto;
+  background: #000;
+  content: "";
+}
+.classify_goods .classify_goodsList {
+  flex: 1;
+  background: white;
+  padding: 0.12rem;
+  height: 100vh;
+  min-width: 220px;
+  box-sizing: border-box;
+  overflow-y: scroll;
+}
+.classify_goods .classify_goodsList .c_g_ul {
+  position: relative;
+  width: 100%;
+}
+.classify_goods .classify_goodsList .c_g_ul li {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.classify_goods .classify_goodsList .c_g_ul li .bigtypeimg {
+  width: 100%;
+  margin: 0.06rem 0;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type {
+  width: 100%;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type p {
+  color: black;
+  line-height: 0.42rem;
+  font-size: 0.15rem;
+  padding-left: 0.08rem;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type .t1 {
+  width: 100%;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type .t1 li {
+  padding: 0.1rem 0;
+  display: flex;
+  flex-wrap: nowrap;
+  background: #f8f8f8;
+  border-radius: 0.125rem;
+  margin-bottom: 0.08rem;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type .t1 li img {
+  width: 0.56rem;
+  height: 0.56rem;
+  margin: 0 0.1rem;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type .t1 li .t_right {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+  overflow: hidden;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type .t1 li .t_right .g_name {
+  font-size: 0.12rem;
+  line-height: 0.12rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type .t1 li .t_right .g_info {
+  font-size: 0.12rem;
+  color: rgba(0, 0, 0, 0.3);
+  line-height: 0.12rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type .t1 li .t_right .g_price {
+  font-size: 0.12rem;
+  line-height: 0.12rem;
+  color: rgba(0, 0, 0, 0.85);
+}
+.classify_goods .classify_goodsList .c_g_ul li .type .t1 li:last-child {
+  margin-bottom: 0;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type .t2 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type .t2 li {
+  width: 32%;
+  padding-top: 0.1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type .t2 li img {
+  width: 0.51rem;
+  height: 0.51rem;
+}
+.classify_goods .classify_goodsList .c_g_ul li .type .t2 li p {
+  margin-top: 0.05rem;
+  width: 100%;
+  font-size: 0.12rem;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.nicescroll-cursors, .nicescroll-rails {
+  display: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.my_header {
+  width: 100%;
+  padding: 0 0.12rem;
+  box-sizing: border-box;
+  background-color: white;
+}
+.my_header .my_info {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.21rem 0;
+  display: flex;
+}
+.my_header .my_info .my_img {
+  width: 0.62rem;
+  height: 0.62rem;
+}
+.my_header .my_info .my_img img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.my_header .my_info .my_name {
+  flex: 1;
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+  padding-left: 0.12rem;
+  box-sizing: border-box;
+}
+.my_header .my_info .my_name p {
+  font-size: 0.17rem;
+  margin-bottom: 0;
+  width: 100%;
+  color: black;
+}
+.my_header .my_info .my_name span {
+  font-size: 0.13rem;
+  color: #666666;
+}
+.my_header .my_info .login {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.my_header .my_info .login span {
+  padding: 0.02rem 0.2rem;
+  background-color: #f63434;
+  font-size: 0.14rem;
+  border-radius: 0.15rem;
+}
+.my_header .my_jifen {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.my_header .my_jifen .quan {
+  width: 33%;
+  text-align: center;
+}
+.my_header .my_jifen .jifen {
+  width: 33%;
+  text-align: center;
+}
+.my_header .my_jifen p {
+  font-size: 0.13rem;
+  color: black;
+  margin-bottom: 0;
+}
+.my_header .my_jifen span {
+  margin-bottom: 0.12rem;
+  font-size: 0.15rem;
+}
+
+.my_car {
+  width: 100%;
+  padding: 0.12rem 0.17rem;
+  display: flex;
+  justify-content: space-between;
+  background: white;
+}
+.my_car > span {
+  font-size: 0.15rem;
+}
+.my_car > p {
+  margin-bottom: 0;
+  font-size: 0.13rem;
+  color: #666666;
+  display: flex;
+  align-items: center;
+}
+.my_car > p span {
+  display: inline-block;
+  width: 0.17rem;
+  height: 0.17rem;
+  background-image: url("../oppo/res/drawable-xxhdpi-v4/ic_right_arrow.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.my_nav {
+  width: 100%;
+  padding: 0 0.05rem;
+  background: white;
+}
+.my_nav ul {
+  display: flex;
+}
+.my_nav ul li {
+  width: 20%;
+  margin: 0.075rem;
+  text-align: center;
+}
+.my_nav ul li img {
+  width: 0.24rem;
+  height: 0.24rem;
+}
+.my_nav ul li p {
+  margin-bottom: 0;
+  font-size: 0.13rem;
+  margin-top: 0.05rem;
+}
+
+.my_usually {
+  width: 100%;
+  background: white;
+  padding: 0 0.12rem 0.15rem;
+}
+.my_usually .title {
+  padding: 0.12rem 0.05rem;
+  font-size: 0.15rem;
+}
+.my_usually ul {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.my_usually ul li {
+  width: 25%;
+  text-align: center;
+  padding: 0.1rem 0.06rem 0;
+  box-sizing: border-box;
+}
+.my_usually ul li img {
+  width: 0.31rem;
+  height: 0.31rem;
+}
+.my_usually ul li p {
+  margin-bottom: 0;
+  font-size: 0.13rem;
+  margin-top: 0.06rem;
+}
+
+.my_footer {
+  margin-top: 0.12rem;
+  width: 100%;
+  background: white;
+  padding: 0.1rem;
+}
+.my_footer ul {
+  display: flex;
+}
+.my_footer ul li {
+  flex: 1;
+  text-align: center;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+.my_footer ul li .f_icon1 {
+  display: inline-block;
+  width: 0.24rem;
+  height: 0.24rem;
+  background-image: url("../oppo/res/drawable-xxhdpi-v4/ic_login_device.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.my_footer ul li .f_icon2 {
+  display: inline-block;
+  width: 0.24rem;
+  height: 0.24rem;
+  background-image: url("../oppo/res/drawable-xxhdpi-v4/share_dark.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  transform: rotate(90deg);
+  background-color: #333333;
+}
+.my_footer ul li span {
+  font-size: 0.13rem;
+}
+.my_footer .shouquan {
+  margin-top: 0.15rem;
+  width: 100%;
+  color: #666666;
+}
+.my_footer .shouquan ul {
+  display: flex;
+  margin-bottom: 0.1rem;
+}
+.my_footer .shouquan ul li {
+  font-size: 0.1rem;
+}
+.my_footer .shouquan p {
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 0.1rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.buycar_main {
+  width: 100%;
+  height: 100vh;
+  background: #f7f8fa;
+  margin-bottom: 0.55rem;
+}
+.buycar_main .buycar_header {
+  width: 100%;
+  height: 0.46rem;
+  text-align: center;
+  line-height: 0.46rem;
+  font-size: 0.17rem;
+  background: white;
+}
+.buycar_main .buy_total {
+  display: flex;
+  padding: 0.15rem 0.25rem;
+  box-sizing: border-box;
+  background: white;
+  justify-content: space-between;
+}
+.buycar_main .buy_total p {
+  font-size: 0.13rem;
+  color: rgba(0, 0, 0, 0.55);
+  margin-bottom: 0;
+}
+.buycar_main .buy_total .total_right {
+  display: flex;
+}
+.buycar_main .buy_total .total_right span {
+  border-radius: 0.15rem;
+  background-color: #ec3e50;
+  color: white;
+  font-size: 0.12rem;
+  padding: 0 0.04rem;
+  margin-right: 0.15rem;
+}
+.buycar_main .buy_total .total_right p {
+  font-size: 0.15rem;
+  color: black;
+  margin-bottom: 0;
+}
+.buycar_main .buy_goods {
+  padding: 0.16rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+.buycar_main .buy_goods .havegoods {
+  width: 100%;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+.buycar_main .buy_goods .havegoods img {
+  width: 0.64rem;
+  height: 0.64rem;
+}
+.buycar_main .buy_goods .havegoods p {
+  font-size: 0.17rem;
+  margin-top: 0.1rem;
+}
+.buycar_main .buy_goods .havegoods button {
+  color: red;
+  background: white;
+  border-radius: 0.15rem;
+  text-align: center;
+  width: 1rem;
+}
+.buycar_main .buy_goods .buycar_godos {
+  width: 100%;
+}
+.buycar_main .buy_goods .buycar_godos ul {
+  width: 100%;
+  margin-bottom: 1.35rem;
+}
+.buycar_main .buy_goods .buycar_godos ul li {
+  display: flex;
+  width: 100%;
+  padding: 0.14rem 0.12rem;
+  box-sizing: border-box;
+  align-items: center;
+  background-color: white;
+  border-radius: 0.1rem;
+  margin-bottom: 0.15rem;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_check {
+  width: 0.25rem;
+  height: 0.25rem;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info {
+  flex: 1;
+  display: flex;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info img {
+  height: 0.84rem;
+  margin: 0 0.08rem 0 0.1rem;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info .goods_info_txt {
+  flex: 1;
+  height: 0.84rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info .goods_info_txt > p {
+  width: 100%;
+  margin-bottom: 0;
+  font-size: 0.15rem;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  color: black;
+  line-break: anywhere;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info .goods_info_txt .pri {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info .goods_info_txt .pri .buycar_price {
+  display: flex;
+  align-items: center;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info .goods_info_txt .pri .buycar_price p {
+  margin-bottom: 0;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info .goods_info_txt .pri .buycar_price .buy_newprice {
+  color: red;
+  font-size: 0.12rem;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info .goods_info_txt .pri .buycar_price .buy_newprice span:last-child {
+  font-size: 0.16rem;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info .goods_info_txt .pri .buycar_price .buy_oldprice {
+  font-size: 12px;
+  transform-origin: left;
+  transform: scale(0.8);
+  margin-left: 0.08rem;
+  color: rgba(0, 0, 0, 0.3);
+  text-decoration: line-through;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info .goods_info_txt .pri .buy_num {
+  display: flex;
+  align-items: center;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info .goods_info_txt .pri .buy_num span {
+  width: 0.21rem;
+  height: 0.22rem;
+  color: silver;
+  text-align: center;
+  font-size: 0.14rem;
+}
+.buycar_main .buy_goods .buycar_godos ul li .goods_info .goods_info_txt .pri .buy_num input {
+  text-align: center;
+  height: 0.22rem;
+  width: 0.4rem;
+  background: #f6f6f6;
+  margin-bottom: 0;
+  font-size: 0.12rem;
+  padding: 0;
+}
+.buycar_main .to_pay {
+  position: fixed;
+  bottom: 0.55rem;
+  background: white;
+  padding: 0.15rem 0.18rem;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.buycar_main .to_pay .pay_left {
+  display: flex;
+  align-items: center;
+}
+.buycar_main .to_pay .pay_left .checkall {
+  width: 0.25rem;
+  height: 0.25rem;
+}
+.buycar_main .to_pay .pay_left span {
+  margin-left: 0.12rem;
+  font-size: 0.12rem;
+}
+.buycar_main .to_pay .pay_totalprice {
+  flex: 1;
+  display: flex;
+  align-content: space-between;
+  height: 100%;
+  margin-left: 0.15rem;
+  flex-wrap: wrap;
+}
+.buycar_main .to_pay .pay_totalprice .total_price {
+  width: 100%;
+  display: flex;
+  font-size: 0.12rem;
+  color: black;
+}
+.buycar_main .to_pay .pay_totalprice .total_price p {
+  margin-left: 0.05rem;
+  margin-bottom: 0;
+  font-size: 0.12rem;
+  color: #f34141;
+}
+.buycar_main .to_pay .pay_totalprice .total_price p span {
+  font-size: 0.18rem;
+}
+.buycar_main .to_pay .pay_totalprice .total_quan {
+  width: 100%;
+  display: flex;
+  font-size: 0.12rem;
+  color: rgba(0, 0, 0, 0.3);
+}
+.buycar_main .to_pay .pay_totalprice .total_quan p {
+  margin-left: 0.05rem;
+  margin-bottom: 0;
+  font-size: 0.12rem;
+}
+.buycar_main .to_pay .pay_totalprice .total_quan .mingxi {
+  flex: 1;
+  margin-left: 0.05rem;
+  color: black;
+}
+.buycar_main .to_pay .pay_totalprice .total_quan .mingxi .ti {
+  display: inline-block;
+  border: 1px #999999 solid;
+  border-radius: 0.3rem;
+  font-size: 0.12rem;
+  transform-origin: left;
+  transform: scale(0.5);
+}
+.buycar_main .to_pay .pay_totalprice .total_quan .mingxi .showmingxi {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: white;
+  width: 100vw;
+  height: 50vh;
+  border-radius: 0.15rem 0.15rem 0 0;
+}
+.buycar_main .to_pay .pay_totalprice .total_quan .mingxi .showmingxi h4 {
+  padding: 0.2rem 0;
+  text-align: center;
+}
+.buycar_main .to_pay .pay_totalprice .total_quan .mingxi .showmingxi .close {
+  position: absolute;
+  display: inline-block;
+  width: 0.2rem;
+  height: 0.2rem;
+  top: 0.15rem;
+  right: 0.2rem;
+  background-image: url("../oppo/res/drawable-xxhdpi-v4/bottom_close.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.buycar_main .to_pay .pay_totalprice .total_quan .mingxi .showmingxi .mx_info {
+  width: 100%;
+  padding: 0 0.25rem;
+  color: #333333;
+  font-size: 0.13rem;
+  border-top: 1px solid #999999;
+}
+.buycar_main .to_pay .pay_totalprice .total_quan .mingxi .showmingxi .mx_info .mx_price, .buycar_main .to_pay .pay_totalprice .total_quan .mingxi .showmingxi .mx_info .mx_bt, .buycar_main .to_pay .pay_totalprice .total_quan .mingxi .showmingxi .mx_info .mx_q {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0.12rem 0;
+}
+.buycar_main .to_pay .pay_totalprice .total_quan .mingxi .showmingxi .mx_info .mx_total {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0.12rem 0;
+}
+.buycar_main .to_pay .pay_totalprice .total_quan .mingxi .showmingxi .mx_info .mx_total h5 {
+  color: black;
+}
+.buycar_main .to_pay .pay_totalprice .total_quan .mingxi .showmingxi .mx_info .mx_total span {
+  color: #f34141;
+}
+.buycar_main .to_pay .pay_totalprice .total_quan .mingxi .showmingxi .mx_info p {
+  margin-bottom: 0;
+  font-size: 0.12rem;
+}
+.buycar_main .to_pay .pay {
+  width: 102px;
+  background: #f63434;
+  border-radius: 0.2rem;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buycar_main .to_pay .pay p {
+  color: white;
+  font-size: 0.14rem;
+  margin-bottom: 0;
+}
+.buycar_main .to_pay .pay p span {
+  font-size: 0.12rem;
+}
+
+html {
+  font-size: 100px;
+}
+
+body {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+li {
+  list-style: none;
+}
+
+.bot_nav {
+  height: 0.55rem;
+  color: #b2b2b2;
+}
+.bot_nav .navitem {
+  background-color: #fff;
+  position: relative;
+}
+.bot_nav .navitem > .mui-icon-home::before {
+  content: "";
+  background-size: 100%;
+  background-image: url(../oppo/res/drawable-xxhdpi-v4/tab_icon_home_selected.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.bot_nav .navitem > .mui-icon-phone::before {
+  content: "";
+  background-size: 100%;
+  background-image: url(../oppo/res/drawable-xxhdpi-v4/tab_icon_home_selected.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.bot_nav .navitem > .mui-icon-email::before {
+  content: "";
+  background-size: 100%;
+  background-image: url(../oppo/res/drawable-xxhdpi-v4/tab_icon_home_selected.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.bot_nav .navitem > .mui-icon-gear::before {
+  content: "";
+  background-size: 100%;
+  background-image: url(../oppo/res/drawable-xxhdpi-v4/avatar.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.bot_nav .navitem > .jiaobiao {
+  position: absolute;
+  top: 0;
+  z-index: 9;
+  right: 0.15rem;
+}
+.bot_nav .mui-tab-item.mui-active {
+  color: #f94c30;
+}
+
+/*# sourceMappingURL=index.css.map */

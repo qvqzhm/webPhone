@@ -1,0 +1,500 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "category": {
+                "categoryCode": "003241",
+                "name": "屏碎保",
+                "subtitle": null,
+                "style": 2,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 10,
+                "firstLevelCode": "003240",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003241",
+                        "spuId": 6035,
+                        "spuName": "OPPO屏碎保一年",
+                        "marketingText": "",
+                        "skuId": 6142,
+                        "skuName": "OPPO屏碎保一年 A系列、K9s、K9x",
+                        "mainImg": "https://dsfs.oppo.com/omp/1643268278879-_-f971257eeedc44d68ff87a6a364d8100.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6142&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "99",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "99",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 14,
+                        "goodsTopCategoryName": "虚拟商品",
+                        "goodsCategoryId": 17,
+                        "goodsCategoryName": "保障服务"
+                    },
+                    {
+                        "categoryCode": "003241",
+                        "spuId": 6519,
+                        "spuName": "（限时特惠）屏碎保买1年送1年",
+                        "marketingText": "",
+                        "skuId": 8518,
+                        "skuName": "（限时特惠）屏碎保买1年送1年 一加Ace Pro",
+                        "mainImg": "https://dsfs.oppo.com/omp/1643268278942-_-75093ca053dc49fda28a380bddd8df8a.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8518&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "新品",
+                                "type": 0,
+                                "descList": [
+                                    "新品"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "299",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "299",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 14,
+                        "goodsTopCategoryName": "虚拟商品",
+                        "goodsCategoryId": 17,
+                        "goodsCategoryName": "保障服务"
+                    },
+                    {
+                        "categoryCode": "003241",
+                        "spuId": 6845,
+                        "spuName": "OPPO手表屏碎保一年",
+                        "marketingText": "",
+                        "skuId": 8516,
+                        "skuName": "OPPO手表屏碎保一年 OPPO Watch 3系列",
+                        "mainImg": "https://dsfs.oppo.com/omp/1643268278879-_-f971257eeedc44d68ff87a6a364d8100.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8516&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "新品",
+                                "type": 0,
+                                "descList": [
+                                    "新品"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "99",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "99",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 14,
+                        "goodsTopCategoryName": "虚拟商品",
+                        "goodsCategoryId": 17,
+                        "goodsCategoryName": "保障服务"
+                    },
+                    {
+                        "categoryCode": "003241",
+                        "spuId": 6039,
+                        "spuName": "OnePlus屏碎保（含后盖）一年",
+                        "marketingText": "",
+                        "skuId": 6157,
+                        "skuName": "OnePlus屏碎保（含后盖）一年 一加9R、一加9RT",
+                        "mainImg": "https://dsfs.oppo.com/omp/1643268278942-_-75093ca053dc49fda28a380bddd8df8a.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6157&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "249",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "249",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 14,
+                        "goodsTopCategoryName": "虚拟商品",
+                        "goodsCategoryId": 17,
+                        "goodsCategoryName": "保障服务"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003242",
+                "name": "全面保障组合",
+                "subtitle": null,
+                "style": 2,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 8,
+                "firstLevelCode": "003240",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003242",
+                        "spuId": 6036,
+                        "spuName": "OPPO Care+（意外保+延长保+电池焕新）",
+                        "marketingText": "",
+                        "skuId": 6648,
+                        "skuName": "OPPO Care+（意外保+延长保+电池焕新） Watch 3、Watch 2（42mm版）",
+                        "mainImg": "https://dsfs.oppo.com/omp/1643268278716-_-f59e7375ec5d4a45bf99e4478da49b0e.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6648&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "229",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "229",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 14,
+                        "goodsTopCategoryName": "虚拟商品",
+                        "goodsCategoryId": 17,
+                        "goodsCategoryName": "保障服务"
+                    },
+                    {
+                        "categoryCode": "003242",
+                        "spuId": 6844,
+                        "spuName": "OnePlus Care+（意外保+延长保+电池焕新）",
+                        "marketingText": "",
+                        "skuId": 8515,
+                        "skuName": "OnePlus Care+（意外保+延长保+电池焕新） Ace Pro",
+                        "mainImg": "https://dsfs.oppo.com/omp/1643268278716-_-f59e7375ec5d4a45bf99e4478da49b0e.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8515&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "新品",
+                                "type": 0,
+                                "descList": [
+                                    "新品"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "399",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "399",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 14,
+                        "goodsTopCategoryName": "虚拟商品",
+                        "goodsCategoryId": 17,
+                        "goodsCategoryName": "保障服务"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003243",
+                "name": "延长保",
+                "subtitle": null,
+                "style": 2,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 6,
+                "firstLevelCode": "003240",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003243",
+                        "spuId": 6037,
+                        "spuName": "OPPO延长保一年",
+                        "marketingText": "",
+                        "skuId": 6152,
+                        "skuName": "OPPO延长保一年 A系列、K9s、K9x",
+                        "mainImg": "https://dsfs.oppo.com/omp/1643268279148-_-6219bb0a8ea94d7ba5c980c09b837e81.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6152&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "59",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "59",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 14,
+                        "goodsTopCategoryName": "虚拟商品",
+                        "goodsCategoryId": 17,
+                        "goodsCategoryName": "保障服务"
+                    },
+                    {
+                        "categoryCode": "003243",
+                        "spuId": 6038,
+                        "spuName": "OPPO延长保半年",
+                        "marketingText": "",
+                        "skuId": 6154,
+                        "skuName": "OPPO延长保半年 A系列，K9s，K9x",
+                        "mainImg": "https://dsfs.oppo.com/omp/1643268279007-_-d503ef8b4e93471a90bc2352c14c41f3.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6154&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "39",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "39",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 14,
+                        "goodsTopCategoryName": "虚拟商品",
+                        "goodsCategoryId": 17,
+                        "goodsCategoryName": "保障服务"
+                    },
+                    {
+                        "categoryCode": "003243",
+                        "spuId": 6040,
+                        "spuName": "OnePlus延长保一年",
+                        "marketingText": "",
+                        "skuId": 7002,
+                        "skuName": "OnePlus延长保一年 一加 Ace系列",
+                        "mainImg": "https://dsfs.oppo.com/omp/1643268279212-_-e23c84c1754249149596132e323d4f02.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7002&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "79",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "79",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 14,
+                        "goodsTopCategoryName": "虚拟商品",
+                        "goodsCategoryId": 17,
+                        "goodsCategoryName": "保障服务"
+                    },
+                    {
+                        "categoryCode": "003243",
+                        "spuId": 6046,
+                        "spuName": "OnePlus延长保半年",
+                        "marketingText": "",
+                        "skuId": 7097,
+                        "skuName": "OnePlus延长保半年 一加Ace系列",
+                        "mainImg": "https://dsfs.oppo.com/omp/1643268279079-_-55603ef0c94646678fc8252e9319e1fa.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7097&us=fenleiye",
+                        "promotionsList": null,
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "59",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "59",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 14,
+                        "goodsTopCategoryName": "虚拟商品",
+                        "goodsCategoryId": 17,
+                        "goodsCategoryName": "保障服务"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        }
+    ]
+}

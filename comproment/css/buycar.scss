@@ -1,0 +1,305 @@
+@import '../../css/utile.scss';
+
+@include reset();
+
+.buycar_main{
+  width: 100%;
+  height: 100vh;
+  background: $bg;
+  margin-bottom: 0.55rem;
+  .buycar_header{
+    width: 100%;
+    height: 0.46rem;
+    text-align: center;
+    line-height: 0.46rem;
+    font-size: 0.17rem;
+    background: white;
+  }
+  .buy_total{
+    display: flex;
+    padding: 0.15rem 0.25rem;
+    box-sizing: border-box;
+    background: white;
+    justify-content: space-between;
+    p{
+      font-size: 0.13rem;
+      color: rgba(0,0,0,.55);
+      margin-bottom: 0;
+    }
+    .total_right{
+      display: flex;
+      span{
+        border-radius: 0.15rem;
+        background-color: #ec3e50;
+        color: white;
+        font-size: 0.12rem;
+        padding:0 0.04rem;
+        margin-right: 0.15rem;
+      }
+      p{
+        font-size: 0.15rem;
+        color: black;
+        margin-bottom: 0;
+      }
+    }
+  }
+  .buy_goods{
+    padding: 0.16rem;
+    width: 100%;
+    box-sizing: border-box;
+    .havegoods{
+      width: 100%;
+      text-align: center;
+      margin-top: 0.5rem;
+      img{
+        width: 0.64rem;
+        height: 0.64rem;
+      }
+      p{
+        font-size: 0.17rem;
+        margin-top: 0.1rem;
+      }
+      button{
+        color: red;
+        background: white;
+        border-radius: 0.15rem;
+        text-align: center;
+        width: 1rem;
+      }
+    }
+    .buycar_godos{
+      width: 100%;
+      ul{
+        width: 100%;
+        margin-bottom: 1.35rem;
+        li{
+          display: flex;
+          width: 100%;
+          padding: 0.14rem $pad;
+          box-sizing: border-box;
+          align-items: center;
+          background-color: white;
+          border-radius: 0.1rem;
+          margin-bottom: 0.15rem;
+          .goods_check{
+            width: 0.25rem;
+            height: 0.25rem;
+          }
+          .goods_info{
+            flex: 1;
+            display: flex;
+            img{
+              height: 0.84rem;
+              margin: 0 0.08rem 0 0.1rem;
+            }
+            .goods_info_txt{
+              flex: 1;
+              height: 0.84rem;
+              display: flex;
+              flex-wrap: wrap;
+              align-content: space-between;
+              >p{
+                width: 100%;
+                margin-bottom: 0;
+                font-size: 0.15rem;
+                overflow: hidden;
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 2;
+                color: black;
+                line-break: anywhere;
+              }
+              .pri{
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+                .buycar_price{
+                  display: flex;
+                  align-items: center;
+                  p{
+                    margin-bottom: 0;
+                  }
+                  .buy_newprice{
+                    color: red;
+                    font-size: 0.12rem;
+                    span:last-child{
+                      font-size: 0.16rem;
+                    }
+                  }
+                  .buy_oldprice{
+                    font-size: 12px;
+                    transform-origin: left;
+                    transform: scale(0.8);
+                    margin-left: 0.08rem;
+                    color: rgba(0,0,0,.3);
+                    text-decoration: line-through;
+                  }
+                }
+                .buy_num{
+                  display: flex;
+                  align-items: center;
+                  span{
+                    width: 0.21rem;
+                    height: 0.22rem;
+                    color: silver;
+                    text-align: center;
+                    font-size: 0.14rem;
+                  }
+                  input{
+                    text-align: center;
+                    height: 0.22rem;
+                    width: 0.4rem;
+                    background: #f6f6f6;
+                    margin-bottom: 0;
+                    font-size: 0.12rem;
+                    padding: 0;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+
+  }
+
+  .to_pay{
+    position: fixed;
+    bottom: 0.55rem;
+    background: white;
+    padding: 0.15rem 0.18rem;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    .pay_left{
+      display: flex;
+      align-items: center;
+      .checkall{
+        width: 0.25rem;
+        height: 0.25rem;
+      }
+      span{
+        margin-left: $pad;
+        font-size: 0.12rem;
+      }
+    }
+    .pay_totalprice{
+      flex: 1;
+      display: flex;
+      align-content: space-between;
+      height: 100%;
+      margin-left: 0.15rem;
+      flex-wrap: wrap;
+      .total_price{
+        width: 100%;
+        display: flex;
+        font-size: 0.12rem;
+        color: black;
+        p{
+          margin-left: 0.05rem;
+          margin-bottom: 0;
+          font-size: 0.12rem;
+          color: #f34141;
+          span{
+            font-size: 0.18rem;
+          }
+        }
+      }
+      .total_quan{
+        width: 100%;
+        display: flex;
+        font-size: 0.12rem;
+        color: rgba(0,0,0,.3);
+        p{
+          margin-left: 0.05rem;
+          margin-bottom: 0;
+          font-size: 0.12rem;
+        }
+        .mingxi{
+          flex: 1;
+          margin-left: 0.05rem;
+          color: black;
+          .ti{
+            display: inline-block;
+            border: 1px #999999 solid;
+            border-radius: 0.3rem;
+            font-size: 0.12rem;
+            transform-origin: left;
+            transform: scale(0.5);
+          }
+          .showmingxi{
+            position: absolute;
+            left: 0;
+            top: 0;
+            background: white;
+            width: 100vw;
+            height: 50vh;
+            border-radius: 0.15rem 0.15rem 0 0;
+            h4{
+              padding: 0.2rem 0;
+              text-align: center;
+            }
+            .close{
+              position: absolute;
+              display: inline-block;
+              width: 0.2rem;
+              height: 0.2rem;
+              top: 0.15rem;
+              right: 0.2rem;
+              background-image: url("../oppo/res/drawable-xxhdpi-v4/bottom_close.png");
+              background-repeat: no-repeat;
+              background-size: 100%;
+            }
+            .mx_info{
+              width: 100%;
+              padding: 0 0.25rem;
+              color: #333333;
+              font-size: 0.13rem;
+              border-top: 1px solid #999999;
+              .mx_price,.mx_bt,.mx_q{
+                display: flex;
+                justify-content: space-between;
+                width: 100%;
+                padding: $pad 0;
+              }
+              .mx_total{
+                display: flex;
+                justify-content: space-between;
+                width: 100%;
+                padding: $pad 0;
+                h5{
+                  color: black;
+                }
+                span{
+                  color: #f34141;
+                }
+              }
+              p{
+                margin-bottom: 0;
+                font-size: 0.12rem;
+              }
+            }
+          }
+        }
+      }
+    }
+    .pay{
+      width: 102px;
+      background: #f63434;
+      border-radius: 0.20rem;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      p{
+        color: white;
+        font-size: 0.14rem;
+        margin-bottom: 0;
+        span{
+          font-size: 0.12rem;
+        }
+      }
+    }
+  }
+}

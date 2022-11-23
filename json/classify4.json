@@ -1,0 +1,1162 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "category": {
+                "categoryCode": "000020",
+                "name": "Enco X 系列",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 1000,
+                "firstLevelCode": "000019",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [
+                    {
+                        "logoUrl": "https://dsfs.oppo.com/omp/1662012772284-_-6741f3d6784b482e82b88c467357057a.png?_w_=738&_h_=240",
+                        "video": "",
+                        "desc": "",
+                        "defaultUrl": "https://www.opposhop.cn/cn/m/product/index?skuId=8686&us=fenleiye&um=x2xinse",
+                        "loginValid": false,
+                        "scopeJson": null
+                    }
+                ],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "000020",
+                        "spuId": 21452,
+                        "spuName": "OPPO Enco X2 镜夜黑 无线充版",
+                        "marketingText": "45dB 降噪深度",
+                        "skuId": 8686,
+                        "skuName": "OPPO Enco X2 镜夜黑 无线充版",
+                        "mainImg": "https://dsfs.oppo.com/omp/1661997500240-_-b3c704fbabf248e0a1e980b2b067cf2c.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8686&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "新品",
+                                "type": 0,
+                                "descList": [
+                                    "新品"
+                                ]
+                            },
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "6期免息"
+                                ]
+                            },
+                            {
+                                "title": "赠品",
+                                "type": 2,
+                                "descList": [
+                                    "赠"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵5%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "45dB 降噪深度",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "889",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "889",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 19,
+                        "goodsCategoryName": "蓝牙耳机（核心品）"
+                    },
+                    {
+                        "categoryCode": "000020",
+                        "spuId": 973,
+                        "spuName": "OPPO Enco X",
+                        "marketingText": "双重主动降噪",
+                        "skuId": 2229,
+                        "skuName": "OPPO Enco X 白歌",
+                        "mainImg": "https://dsfs.oppo.com/archives/202010/202010190810125f8d84f4975fe.png",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=2229&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "6期免息"
+                                ]
+                            },
+                            {
+                                "title": "赠品",
+                                "type": 2,
+                                "descList": [
+                                    "赠"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵10%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "双重主动降噪",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "519",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "999",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "519",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 19,
+                        "goodsCategoryName": "蓝牙耳机（核心品）"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003841",
+                "name": "Enco Free 系列",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 990,
+                "firstLevelCode": "000019",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003841",
+                        "spuId": 21143,
+                        "spuName": "OPPO Enco Free2i",
+                        "marketingText": "42dB 降噪深度",
+                        "skuId": 22136,
+                        "skuName": "OPPO Enco Free2i 真无线蓝牙降噪耳机 浮云白",
+                        "mainImg": "https://dsfs.oppo.com/archives/202111/20211123091156619c4234dc39b.png?_w_=600&_h_=600",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22136&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵10%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "42dB 降噪深度",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "339",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "499",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "339",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 19,
+                        "goodsCategoryName": "蓝牙耳机（核心品）"
+                    },
+                    {
+                        "categoryCode": "003841",
+                        "spuId": 1843,
+                        "spuName": "OPPO Enco Free2",
+                        "marketingText": "低延迟双传 | 个性化降噪",
+                        "skuId": 4523,
+                        "skuName": "OPPO Enco Free2 极夜黑",
+                        "mainImg": "https://dsfs.oppo.com/archives/202105/2021051807050760a3a80f68a0c.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=4523&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵30%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "低延迟双传 | 个性化降噪",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "489",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "599",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "489",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 19,
+                        "goodsCategoryName": "蓝牙耳机（核心品）"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003842",
+                "name": "Enco Air 系列",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 980,
+                "firstLevelCode": "000019",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003842",
+                        "spuId": 6806,
+                        "spuName": "OPPO Enco Air2i 真无线耳机",
+                        "marketingText": "10mm 超大动圈",
+                        "skuId": 8413,
+                        "skuName": "OPPO Enco Air2i 真无线耳机 水晶白",
+                        "mainImg": "https://dsfs.oppo.com/omp/1660014980737-_-79ba744b43e54c42be5baad8330df63b.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8413&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "10mm 超大动圈",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "129",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "149",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": "129",
+                            "currencyTag": "￥",
+                            "prefix": "到手价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 19,
+                        "goodsCategoryName": "蓝牙耳机（核心品）"
+                    },
+                    {
+                        "categoryCode": "003842",
+                        "spuId": 6196,
+                        "spuName": "OPPO Enco Air2 Pro",
+                        "marketingText": "吾皇猫定制礼盒",
+                        "skuId": 7651,
+                        "skuName": "OPPO Enco Air2 Pro 吾皇版",
+                        "mainImg": "https://dsfs.oppo.com/omp/1653374709860-_-e6e913acf0ff4e3b91a480f8c2f97559.png?_w_=1080&_h_=1080",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7651&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"吾皇猫定制礼盒\",\"timing\":0}]",
+                        "spuShortDesc": "ANC 主动降噪",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "289",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "329",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "289",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 19,
+                        "goodsCategoryName": "蓝牙耳机（核心品）"
+                    },
+                    {
+                        "categoryCode": "003842",
+                        "spuId": 21374,
+                        "spuName": "OPPO Enco Air2",
+                        "marketingText": "3.5 g 超轻无感",
+                        "skuId": 22705,
+                        "skuName": "OPPO Enco Air2 晨雾白",
+                        "mainImg": "https://dsfs.oppo.com/archives/202201/2022010109015161cfb51fbd1bb.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22705&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵10元"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "3.5 g 超轻无感",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "159",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "199",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "159",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 19,
+                        "goodsCategoryName": "蓝牙耳机（核心品）"
+                    },
+                    {
+                        "categoryCode": "003842",
+                        "spuId": 1720,
+                        "spuName": "OPPO Enco Air 灵动版",
+                        "marketingText": "24小时超长续航",
+                        "skuId": 20585,
+                        "skuName": "OPPO Enco Air 灵动版 淡蓝",
+                        "mainImg": "https://dsfs.oppo.com/archives/202110/202110090110536161272da9c22.png?_w_=300&_h_=300",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=20585&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵5%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "24小时超长续航",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "99",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "199",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": "99",
+                            "currencyTag": "￥",
+                            "prefix": "到手价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 19,
+                        "goodsCategoryName": "蓝牙耳机（核心品）"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "003843",
+                "name": "其他",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 970,
+                "firstLevelCode": "000019",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "003843",
+                        "spuId": 6515,
+                        "spuName": "OPPO Enco R 真无线蓝牙耳机",
+                        "marketingText": "",
+                        "skuId": 7682,
+                        "skuName": "OPPO Enco R 真无线蓝牙耳机 冰透白",
+                        "mainImg": "https://dsfs.oppo.com/omp/1653206038924-_-cb0b1862961642868a86c3232086ba85.png?_w_=1080&_h_=1080",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=7682&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "289",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "299",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "289",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 19,
+                        "goodsCategoryName": "蓝牙耳机（核心品）"
+                    },
+                    {
+                        "categoryCode": "003843",
+                        "spuId": 21349,
+                        "spuName": "OPPO Enco M32 无线耳机",
+                        "marketingText": "充电10分钟 | 听歌20小时",
+                        "skuId": 22610,
+                        "skuName": "OPPO Enco M32 无线耳机 酷黑",
+                        "mainImg": "https://dsfs.oppo.com/archives/202112/2021122702122761c958971b823.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22610&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵10%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "充电10分钟 | 听歌20小时",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "199",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "199",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 4,
+                        "goodsCategoryName": "有线耳机（新分类）"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "001582",
+                "name": "一加智能耳机",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 950,
+                "firstLevelCode": "000019",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "001582",
+                        "spuId": 6215,
+                        "spuName": "一加 Buds N 真无线蓝牙耳机",
+                        "marketingText": "",
+                        "skuId": 6776,
+                        "skuName": "一加 Buds N 真无线蓝牙耳机 月光白",
+                        "mainImg": "https://dsfs.oppo.com/omp/1650545879686-_-f9f3f9c6c195438783b23aa6cbb662e3.png?_w_=1080&_h_=1080",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6776&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵5%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "169",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "199",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": "169",
+                            "currencyTag": "￥",
+                            "prefix": "到手价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 46,
+                        "goodsTopCategoryName": "OnePlus配件",
+                        "goodsCategoryId": 53,
+                        "goodsCategoryName": "OnePlus耳机"
+                    },
+                    {
+                        "categoryCode": "001582",
+                        "spuId": 6216,
+                        "spuName": "一加云耳 Z2 颈挂无线耳机",
+                        "marketingText": "",
+                        "skuId": 6778,
+                        "skuName": "一加云耳 Z2 颈挂无线耳机 黑谱",
+                        "mainImg": "https://dsfs.oppo.com/omp/1649834210756-_-3be370afb4b34f9d98654c16a91dc7f4.png?_w_=1080&_h_=1081",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6778&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵20%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "149",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "199",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": "149",
+                            "currencyTag": "￥",
+                            "prefix": "到手价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 46,
+                        "goodsTopCategoryName": "OnePlus配件",
+                        "goodsCategoryId": 53,
+                        "goodsCategoryName": "OnePlus耳机"
+                    },
+                    {
+                        "categoryCode": "001582",
+                        "spuId": 20316,
+                        "spuName": "一加 Buds Pro 降噪耳机",
+                        "marketingText": "40dB 智能主动降噪",
+                        "skuId": 22714,
+                        "skuName": "一加 Buds Pro 降噪耳机 秘银",
+                        "mainImg": "https://dsfs.oppo.com/omp/1641867976818-_-ff3c51b0eb3645a5bc45a639b7098ec9.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=22714&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "6期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵10%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "40dB 智能主动降噪",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "589",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "799",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "589",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 46,
+                        "goodsTopCategoryName": "OnePlus配件",
+                        "goodsCategoryId": 53,
+                        "goodsCategoryName": "OnePlus耳机"
+                    },
+                    {
+                        "categoryCode": "001582",
+                        "spuId": 6005,
+                        "spuName": "一加 Buds Z2 降噪耳机",
+                        "marketingText": "40dB 主动降噪",
+                        "skuId": 6009,
+                        "skuName": "一加 Buds Z2 降噪耳机 昼白",
+                        "mainImg": "https://dsfs.oppo.com/omp/1633597413027-_-413a4754fad240d8aa71ff7ebe9ccaab.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=6009&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "分期",
+                                "type": 1,
+                                "descList": [
+                                    "3期免息"
+                                ]
+                            },
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            },
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵20%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "40dB 主动降噪",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "339",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "499",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "339",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 46,
+                        "goodsTopCategoryName": "OnePlus配件",
+                        "goodsCategoryId": 53,
+                        "goodsCategoryName": "OnePlus耳机"
+                    },
+                    {
+                        "categoryCode": "001582",
+                        "spuId": 6813,
+                        "spuName": "一加银耳 3",
+                        "marketingText": "",
+                        "skuId": 8423,
+                        "skuName": "一加银耳 3 3.5mm 接口",
+                        "mainImg": "https://dsfs.oppo.com/omp/1659695935151-_-7ef41bd2de524888a4373fc765b62a7d.png?_w_=320&_h_=320",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=8423&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "79",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "99",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "79",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 46,
+                        "goodsTopCategoryName": "OnePlus配件",
+                        "goodsCategoryId": 6063,
+                        "goodsCategoryName": "一加有线耳机"
+                    },
+                    {
+                        "categoryCode": "001582",
+                        "spuId": 906,
+                        "spuName": "OnePlus 银耳 2T 耳机",
+                        "marketingText": "",
+                        "skuId": 2080,
+                        "skuName": "OnePlus 银耳 2T 耳机 黑色",
+                        "mainImg": "https://dsfs.oppo.com/archives/202011/202011060711075fa53563a8c68.png",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=2080&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "领券",
+                                "type": 3,
+                                "descList": [
+                                    "满49减10"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "79",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "119",
+                            "pricePrefix": "券后价",
+                            "priceSuffix": "",
+                            "buyPrice": "79",
+                            "currencyTag": "￥",
+                            "prefix": "券后价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 46,
+                        "goodsTopCategoryName": "OnePlus配件",
+                        "goodsCategoryId": 6063,
+                        "goodsCategoryName": "一加有线耳机"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        },
+        {
+            "category": {
+                "categoryCode": "000414",
+                "name": "OPPO 有线耳机",
+                "subtitle": null,
+                "style": 1,
+                "logo": {
+                    "mainPic": null,
+                    "secondaryPic": null,
+                    "link": null
+                },
+                "level": 2,
+                "weight": 800,
+                "firstLevelCode": "000019",
+                "secondLevelCode": null,
+                "link": null,
+                "loginValid": null,
+                "efficientTime": 1662109742135,
+                "version": 1662109742135,
+                "ads": [],
+                "moreAd": null,
+                "goods": [
+                    {
+                        "categoryCode": "000414",
+                        "spuId": 329,
+                        "spuName": "O-Fresh 耳机",
+                        "marketingText": "光影质感，悦耳\"小黑胶\"",
+                        "skuId": 630,
+                        "skuName": "O-Fresh 耳机 深邃黑 3.5mm 接口",
+                        "mainImg": "https://dsfs.oppo.com/archives/201904/201904190404255cb9875d4e6d4.png",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=630&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵30%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "光影质感，悦耳\"小黑胶\"",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "99",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "129",
+                            "pricePrefix": "到手价",
+                            "priceSuffix": "",
+                            "buyPrice": "99",
+                            "currencyTag": "￥",
+                            "prefix": "到手价",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 4,
+                        "goodsCategoryName": "有线耳机（新分类）"
+                    },
+                    {
+                        "categoryCode": "000414",
+                        "spuId": 264,
+                        "spuName": "OPPO 半入耳式耳机 MH135",
+                        "marketingText": "动听音质",
+                        "skuId": 512,
+                        "skuName": "OPPO 半入耳式耳机 MH135 白色 Type-C 接口",
+                        "mainImg": "https://dsfs.oppo.com/archives/201809/201809180509085ba0c690764a7.png",
+                        "link": "https://www.opposhop.cn/cn/m/product/index?skuId=512&us=fenleiye",
+                        "promotionsList": [
+                            {
+                                "title": "积分抵现",
+                                "type": 5,
+                                "descList": [
+                                    "积分抵30%"
+                                ]
+                            }
+                        ],
+                        "skuShortDesc": "[{\"text\":\"\",\"timing\":0}]",
+                        "spuShortDesc": "动听音质",
+                        "price": {
+                            "marketPrice": "",
+                            "originalPrice": null,
+                            "price": "69",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": null,
+                            "prefix": null,
+                            "suffix": null
+                        },
+                        "priceInfo": {
+                            "marketPrice": "",
+                            "originalPrice": "",
+                            "price": "69",
+                            "pricePrefix": "",
+                            "priceSuffix": "",
+                            "buyPrice": null,
+                            "currencyTag": "￥",
+                            "prefix": "",
+                            "suffix": ""
+                        },
+                        "goodsTopCategoryId": 2,
+                        "goodsTopCategoryName": "配件",
+                        "goodsCategoryId": 4,
+                        "goodsCategoryName": "有线耳机（新分类）"
+                    }
+                ]
+            },
+            "child": null,
+            "refreshTime": 2
+        }
+    ]
+}
